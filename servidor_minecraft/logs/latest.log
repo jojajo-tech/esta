@@ -831,3 +831,22 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [17Jul2025 02:25:57.026] [Server thread/INFO] [Easy NPC/]: Opening menu d16c0392-d7dc-4813-ab11-ee818da29879 for npc 4970249f-f5c8-4dfb-ab0a-2eb9fff546cf and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=937.36, y=70.00, z=851.78] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[entity.easy_npc.]}]
 [17Jul2025 02:26:33.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero moved too quickly! -7.32915278975122,0.0,-8.052809801236435
 [17Jul2025 02:26:36.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to -58.500000, 63.500000, 12.500000]
+[17Jul2025 02:28:19.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[17Jul2025 02:28:19.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[17Jul2025 02:28:19.078] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[17Jul2025 02:28:36.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero lost connection: Disconnected
+[17Jul2025 02:28:36.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero left the game
+[17Jul2025 02:28:36.058] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ServerZero
+[17Jul2025 02:28:41.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jul2025 02:28:41.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jul2025 02:28:41.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jul2025 02:28:41.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jul2025 02:28:41.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jul2025 02:28:41.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jul2025 02:28:41.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[17Jul2025 02:28:41.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jul2025 02:28:41.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jul2025 02:28:41.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jul2025 02:28:41.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[17Jul2025 02:28:41.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jul2025 02:28:41.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
