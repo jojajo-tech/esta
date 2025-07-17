@@ -778,3 +778,56 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [17Jul2025 02:17:35.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
 [17Jul2025 02:17:37.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
 [17Jul2025 02:17:37.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[17Jul2025 02:18:34.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover was kicked for floating too long!
+[17Jul2025 02:18:34.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Flying is not enabled on this server
+[17Jul2025 02:18:34.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[17Jul2025 02:18:34.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[17Jul2025 02:19:12.707] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77491beb[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:44599) lost connection: Disconnected
+[17Jul2025 02:19:16.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:50003] logged in with entity id 11521 at (540.248418234002, 69.24918707874468, 396.7720292475203)
+[17Jul2025 02:19:16.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[17Jul2025 02:19:16.759] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[17Jul2025 02:19:17.446] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[17Jul2025 02:19:17.448] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[17Jul2025 02:19:18.500] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 02:19:20.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 02:19:20.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 02:19:20.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[17Jul2025 02:19:22.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ya no?
+[17Jul2025 02:21:14.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to joaocover]
+[17Jul2025 02:21:24.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by ServerZero
+[17Jul2025 02:21:26.067] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jul2025 02:21:26.067] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17Jul2025 02:21:26.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 02:21:32.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ya si sirve
+[17Jul2025 02:21:41.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Gamerule keepInventory is now set to: true]
+[17Jul2025 02:21:47.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported joaocover to 697.680000, 67.000000, 619.770000]
+[17Jul2025 02:22:10.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero fell from a high place
+[17Jul2025 02:22:12.515] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jul2025 02:22:12.515] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jul2025 02:22:14.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 02:22:18.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to joaocover]
+[17Jul2025 02:22:36.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by ServerZero
+[17Jul2025 02:22:37.962] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jul2025 02:22:37.962] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17Jul2025 02:22:38.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 02:22:55.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported joaocover to 695.510000, 67.810000, 618.180000]
+[17Jul2025 02:22:57.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero was slain by joaocover
+[17Jul2025 02:22:59.077] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jul2025 02:22:59.078] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jul2025 02:23:15.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> que tal la mision XD
+[17Jul2025 02:23:53.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 02:24:31.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to joaocover]
+[17Jul2025 02:24:51.034] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/14260, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[17Jul2025 02:24:51.035] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/14260, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[17Jul2025 02:24:51.035] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['entity.easy_npc.humanoid'/14260, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50] ...
+[17Jul2025 02:24:51.035] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['entity.easy_npc.humanoid'/14260, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50] ...
+[17Jul2025 02:25:17.508] [Server thread/INFO] [Easy NPC/]: Opening menu 9564c6eb-44b7-48e6-9eb3-9acedcbcb7eb for npc 4970249f-f5c8-4dfb-ab0a-2eb9fff546cf and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=937.44, y=70.00, z=851.86] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:25:18.580] [Server thread/INFO] [Easy NPC/]: Opening menu 8ea582bc-9372-4b37-b09b-35ac0369e1ab for npc 4970249f-f5c8-4dfb-ab0a-2eb9fff546cf and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=937.44, y=70.00, z=851.86] with ConfigurationMenu.NONE_TRADING[translation{key='text.easy_npc.config.none_trading.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:25:19.661] [Server thread/INFO] [Easy NPC/]: Opening menu 0a24244d-4864-420d-bbec-a4b921daef87 for npc 4970249f-f5c8-4dfb-ab0a-2eb9fff546cf and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=937.44, y=70.00, z=851.86] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:25:37.911] [Server thread/INFO] [Easy NPC/]: Opening menu 3538acf6-7e1c-40e8-9e32-b42398424cb4 for npc 4970249f-f5c8-4dfb-ab0a-2eb9fff546cf and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=937.44, y=70.00, z=851.86] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:25:39.327] [Server thread/INFO] [Easy NPC/]: Opening menu 3ff06ea8-6be7-4880-bc16-65261430209d for npc 4970249f-f5c8-4dfb-ab0a-2eb9fff546cf and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=937.44, y=70.00, z=851.86] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:25:41.528] [Server thread/INFO] [Easy NPC/]: Opening menu bc4f20d8-7041-4acc-bde1-1557c7054c54 for npc 4970249f-f5c8-4dfb-ab0a-2eb9fff546cf and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=937.44, y=70.00, z=851.86] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:25:55.576] [Server thread/INFO] [Easy NPC/]: Opening menu 3462dd4a-1012-46c8-b84c-448a5af5ed53 for npc 4970249f-f5c8-4dfb-ab0a-2eb9fff546cf and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=937.44, y=70.00, z=851.86] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:25:57.026] [Server thread/INFO] [Easy NPC/]: Opening menu d16c0392-d7dc-4813-ab11-ee818da29879 for npc 4970249f-f5c8-4dfb-ab0a-2eb9fff546cf and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=937.36, y=70.00, z=851.78] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:26:33.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero moved too quickly! -7.32915278975122,0.0,-8.052809801236435
+[17Jul2025 02:26:36.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported ServerZero to -58.500000, 63.500000, 12.500000]

@@ -559,6 +559,101 @@
 			x: -0.5d
 			y: -5.5d
 		}
+		{
+			can_repeat: true
+			id: "4016CE6916F4ECE1"
+			rewards: [{
+				count: 6
+				id: "5767089FE2328858"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zoglin"
+				icon: "minecraft:zoglin_spawn_egg"
+				id: "279F877BC35CC39B"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "2D799FC99481C03F"
+			rewards: [{
+				count: 6
+				id: "17055BCE37C9BCC4"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:husk"
+				icon: "minecraft:husk_spawn_egg"
+				id: "245F7C2A62094D45"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "79D22065A18A9E7C"
+			rewards: [{
+				count: 32
+				id: "0BEAB5B2128B5D43"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "4CC798FF2CDCC523"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			can_repeat: false
+			id: "0EE26EFBBBD6F717"
+			rewards: [{
+				count: 32
+				id: "78DB342A2E72BFF2"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: "minecraft:wither_rose"
+				id: "51294D74A1C94E73"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "1B7D9EAF0EADDEA9"
+			rewards: [{
+				count: 12
+				id: "6A40E9C19F433F4A"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:player"
+				icon: "minecraft:player_head"
+				id: "1EAED240F4921452"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
 	]
 	title: "Cacería"
 }
