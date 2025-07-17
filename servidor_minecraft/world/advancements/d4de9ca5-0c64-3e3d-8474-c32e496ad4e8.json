@@ -2199,5 +2199,17 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-17 02:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-07-17 02:03:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

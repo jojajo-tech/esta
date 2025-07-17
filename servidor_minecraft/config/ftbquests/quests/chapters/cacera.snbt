@@ -361,7 +361,7 @@
 			can_repeat: true
 			id: "45B88766E71FEA1B"
 			rewards: [{
-				count: 2
+				count: 4
 				id: "57ED3E13B09FFF4D"
 				item: "dedsafio3:dedita"
 				type: "item"
@@ -413,6 +413,151 @@
 			}]
 			x: -3.0d
 			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "63A2E614A316A34C"
+			rewards: [{
+				count: 6
+				id: "4148B937EA7118B8"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:hoglin"
+				icon: "minecraft:cooked_porkchop"
+				id: "7794CEF1F42E0161"
+				type: "kill"
+				value: 50L
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "186E99ABD32EB7E9"
+			rewards: [{
+				count: 6
+				id: "59BF3074E857ACDE"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:pillager"
+				icon: {
+					Count: 1
+					id: "minecraft:crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "197AAC68BA88B98C"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "6041086E4504E177"
+			rewards: [{
+				count: 4
+				id: "6FBBACA7DA66F031"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:shulker"
+				icon: "minecraft:shulker_shell"
+				id: "776E6EA76BDE790A"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			id: "3D2C3F5EA1AC49F4"
+			rewards: [{
+				count: 6
+				id: "18F288563915965B"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:slime"
+				icon: "minecraft:slime_ball"
+				id: "68BED40743F99085"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "65B32C458B7F25C1"
+			rewards: [{
+				count: 3
+				id: "3A78EF86C331FFE7"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:vex"
+				icon: {
+					Count: 1
+					id: "minecraft:iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "240CD3FC75EDED17"
+				type: "kill"
+				value: 25L
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			id: "588E14BED70E7B40"
+			rewards: [{
+				count: 6
+				id: "6986469663D37F9D"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:vindicator"
+				icon: "easy_npc:vindicator_spawn_egg"
+				id: "1D56139A3A7D5586"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "7FE0CF19A0A45237"
+			rewards: [{
+				count: 12
+				id: "72F54EF2A995039B"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: "minecraft:sculk_shrieker"
+				id: "60454735E91A8D00"
+				type: "kill"
+				value: 10L
+			}]
+			x: -0.5d
+			y: -5.5d
 		}
 	]
 	title: "Cacería"

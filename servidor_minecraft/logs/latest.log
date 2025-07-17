@@ -749,3 +749,32 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [17Jul2025 02:06:15.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YA ESTA
 [17Jul2025 02:06:37.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported joaocover to -61.830000, 64.000000, 8.590000]
 [17Jul2025 02:06:58.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PERA
+[17Jul2025 02:07:30.843] [Server thread/INFO] [Easy NPC/]: Opening menu 3b803445-980c-4ea2-bc04-6a37de2087e6 for npc 47086a20-b5e9-4b84-b143-dbd502497647 and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=-62.74, y=64.00, z=10.64] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:07:32.372] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Humanoid['entity.easy_npc.humanoid'/5076, l='ServerLevel[world]', x=-64.50, y=64.00, z=10.50] requested by ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=-62.74, y=64.00, z=10.64]
+[17Jul2025 02:09:13.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell from a high place
+[17Jul2025 02:09:15.195] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jul2025 02:09:15.195] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jul2025 02:11:35.021] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Radojka'/7206, l='ServerLevel[world]', x=807.38, y=64.94, z=621.58] died, message: 'Radojka was incinerated by Fire Dragon'
+[17Jul2025 02:11:35.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Radojka'/7206, l='ServerLevel[world]', x=807.38, y=64.94, z=621.58] died: Radojka was turned into KFC by Fire Dragon
+[17Jul2025 02:11:37.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sulejman'/7959, l='ServerLevel[world]', x=803.78, y=65.00, z=615.70] died, message: 'Sulejman was slain by Fire Dragon'
+[17Jul2025 02:11:37.062] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sulejman'/7959, l='ServerLevel[world]', x=803.78, y=65.00, z=615.70] died: Sulejman was slain by Fire Dragon
+[17Jul2025 02:14:01.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> YA?
+[17Jul2025 02:15:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ZZ
+[17Jul2025 02:15:21.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> zzzzz
+[17Jul2025 02:15:33.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ZZZZZZZZZZZZZ
+[17Jul2025 02:15:40.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ZZZZZZZZZZZZZZZZZZZ
+[17Jul2025 02:17:04.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 02:17:06.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> factos
+[17Jul2025 02:17:08.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> eso hare
+[17Jul2025 02:17:09.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[17Jul2025 02:17:09.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[17Jul2025 02:17:09.773] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[17Jul2025 02:17:09.833] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jul2025 02:17:32.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:47663] logged in with entity id 10876 at (465.719073210499, 62.30839274349897, 282.86127263042334)
+[17Jul2025 02:17:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[17Jul2025 02:17:32.419] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[17Jul2025 02:17:32.935] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[17Jul2025 02:17:32.936] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[17Jul2025 02:17:35.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 02:17:37.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[17Jul2025 02:17:37.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
