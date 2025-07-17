@@ -732,3 +732,20 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [17Jul2025 01:50:36.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> yas
 [17Jul2025 01:52:09.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> AAAAAT
 [17Jul2025 01:53:52.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NOOOO
+[17Jul2025 02:00:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[17Jul2025 02:00:03.418] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_17.07.2025-02.00.03.dat
+[17Jul2025 02:00:04.572] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Jul2025 02:00:04.572] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Jul2025 02:03:40.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> altoque mi rey
+[17Jul2025 02:03:42.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[17Jul2025 02:04:00.274] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/5076, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[17Jul2025 02:04:00.274] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/5076, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[17Jul2025 02:04:00.275] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['entity.easy_npc.humanoid'/5076, l='ServerLevel[world]', x=-64.50, y=64.00, z=10.50] ...
+[17Jul2025 02:04:00.275] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['entity.easy_npc.humanoid'/5076, l='ServerLevel[world]', x=-64.50, y=64.00, z=10.50] ...
+[17Jul2025 02:04:02.820] [Server thread/INFO] [Easy NPC/]: Opening menu 275a80da-3e6c-4953-9366-2a11a9c92e93 for npc 47086a20-b5e9-4b84-b143-dbd502497647 and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=-62.95, y=64.00, z=10.52] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:04:03.772] [Server thread/INFO] [Easy NPC/]: Opening menu 53539a3f-f3a8-4707-a6cd-a3348008ecb3 for npc 47086a20-b5e9-4b84-b143-dbd502497647 and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=-62.95, y=64.00, z=10.52] with ConfigurationMenu.NONE_TRADING[translation{key='text.easy_npc.config.none_trading.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:04:05.069] [Server thread/INFO] [Easy NPC/]: Opening menu 0774d54a-8afe-4087-b37a-c921fbcbbb12 for npc 47086a20-b5e9-4b84-b143-dbd502497647 and player ServerPlayer['ServerZero'/668, l='ServerLevel[world]', x=-62.95, y=64.00, z=10.52] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[entity.easy_npc.]}]
+[17Jul2025 02:05:52.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ya fue
+[17Jul2025 02:06:15.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YA ESTA
+[17Jul2025 02:06:37.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported joaocover to -61.830000, 64.000000, 8.590000]
+[17Jul2025 02:06:58.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PERA

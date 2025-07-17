@@ -177,7 +177,7 @@
 				value: 25L
 			}]
 			x: -2.0d
-			y: -0.5d
+			y: -1.5d
 		}
 		{
 			can_repeat: true
@@ -215,7 +215,7 @@
 				value: 50L
 			}]
 			x: -2.0d
-			y: 0.5d
+			y: -0.5d
 		}
 		{
 			can_repeat: true
@@ -260,7 +260,159 @@
 				value: 50L
 			}]
 			x: -2.0d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "1D3C25E3AD7DD8FE"
+			rewards: [{
+				count: 2
+				id: "7B80E22A48CED395"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:ghast"
+				icon: "minecraft:ghast_tear"
+				id: "4B4AFAE6815A52D4"
+				type: "kill"
+				value: 50L
+			}]
+			x: -3.0d
 			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "01963A46D6B3BBEC"
+			rewards: [{
+				count: 2
+				id: "2933DC0AEABEE07E"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:ravager"
+				icon: "minecraft:ravager_spawn_egg"
+				id: "63E9A27D30585A82"
+				type: "kill"
+				value: 15L
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "4D73D84AA4A2AE1B"
+			rewards: [{
+				count: 2
+				id: "2E79534E17FD2CC8"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:endermite"
+				icon: "minecraft:endermite_spawn_egg"
+				id: "6DD9D3F36348532B"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			id: "51F60401E7B51406"
+			rewards: [{
+				count: 2
+				id: "08703DD58491194B"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:phantom"
+				icon: "minecraft:phantom_membrane"
+				id: "31328C3FC825D8F7"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			id: "0C04C25868F68409"
+			rewards: [{
+				count: 2
+				id: "78E39D2C0FC873E7"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:guardian"
+				icon: "minecraft:prismarine_shard"
+				id: "54A5F075FA6A4100"
+				type: "kill"
+				value: 25L
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "45B88766E71FEA1B"
+			rewards: [{
+				count: 2
+				id: "57ED3E13B09FFF4D"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				icon: "minecraft:sponge"
+				id: "2B91BF3E954C8B5B"
+				type: "kill"
+				value: 25L
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "5B3FE694E8961F1E"
+			rewards: [{
+				count: 2
+				id: "2CE22A8C1DBB5AA9"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:silverfish"
+				icon: "minecraft:silverfish_spawn_egg"
+				id: "5D51A6A0BBCC6DBB"
+				type: "kill"
+				value: 25L
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			id: "6AE2155281AAEA0D"
+			rewards: [{
+				count: 6
+				id: "65D14934ADAF93C3"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:piglin_brute"
+				icon: "easy_npc:piglin_brute_spawn_egg"
+				id: "08C14D4217DC1489"
+				type: "kill"
+				value: 50L
+			}]
+			x: -3.0d
+			y: -2.5d
 		}
 	]
 	title: "Cacería"
