@@ -1,0 +1,267 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cacera"
+	group: ""
+	id: "06E98C2982AB5FFE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			hide_lock_icon: true
+			id: "7DC6048A0C32D898"
+			rewards: [{
+				count: 6
+				id: "43CC1CD36D1EBD61"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "easy_npc:zombie_spawn_egg"
+				id: "2A82B97A233AF285"
+				title: "Kill Zombies"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "1CB5D3181200442D"
+			rewards: [{
+				count: 6
+				id: "7A90B651A5954DE2"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				icon: "minecraft:skeleton_skull"
+				id: "19EE348CDD3DBF53"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "1FBD5C7D78B8CBA2"
+			rewards: [{
+				count: 6
+				id: "7683F2D3300A933E"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:creeper"
+				icon: "minecraft:creeper_head"
+				id: "6B0FD4B5A9E2B260"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: true
+			id: "1734F14E44577251"
+			rewards: [{
+				count: 6
+				id: "42E6712ECB83D2CE"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:enderman"
+				icon: "spartanweaponry:enderman_head"
+				id: "1A4046D35A7FC8F5"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "6814FF5A8323090B"
+			rewards: [{
+				count: 6
+				id: "09D4E0D0DB4EC6D0"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:spider"
+				icon: "spartanweaponry:spider_head"
+				id: "528E5D4361E5EDBF"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "0DC65FC74D894F2C"
+			rewards: [{
+				count: 6
+				id: "5929C554F2F583F4"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:cave_spider"
+				icon: "spartanweaponry:cave_spider_head"
+				id: "25706C62ABCA2DD6"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "15C00EE504E6D63D"
+			rewards: [{
+				count: 6
+				id: "05B1C44BD9CD22F0"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:drowned"
+				icon: "spartanweaponry:drowned_head"
+				id: "5B7279E9BF7AFFAB"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "6ADC1BD16D20F2BE"
+			rewards: [{
+				id: "790A043B78CC8D81"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie_villager"
+				icon: "easy_npc:zombie_villager_spawn_egg"
+				id: "6DA92B18DF52CED9"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "00D4A00BD1E836AE"
+			rewards: [{
+				count: 3
+				id: "2F295AE3A61F2784"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:blaze"
+				icon: "spartanweaponry:blaze_head"
+				id: "396755B3C8E0C600"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			id: "54E25C1674BE3524"
+			rewards: [{
+				count: 6
+				id: "6EF2A934424A7080"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:witch"
+				icon: "spartanweaponry:witch_head"
+				id: "78FE384DBF456639"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "604F6BD371C7E0F3"
+			rewards: [{
+				count: 6
+				id: "57FBB181E5CEFCE1"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				icon: "minecraft:magma_cream"
+				id: "57B732544580D497"
+				type: "kill"
+				value: 50L
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "502B10E57F465D2E"
+			rewards: [{
+				count: 6
+				id: "1DDF7ECAA1DB5730"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:stray"
+				icon: {
+					Count: 1
+					id: "minecraft:tipped_arrow"
+					tag: {
+						Potion: "minecraft:long_slowness"
+					}
+				}
+				id: "597256C54EC3AAE0"
+				type: "kill"
+				value: 50L
+			}]
+			title: "Esqueleto de las nieves"
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "5A0A0CD880DB5BF3"
+			rewards: [{
+				count: 6
+				id: "5A76431AE473D054"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				icon: "easy_npc:wither_skeleton_spawn_egg"
+				id: "21DF92DEA852FA45"
+				type: "kill"
+				value: 50L
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+	]
+	title: "Cacería"
+}

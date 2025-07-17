@@ -1,0 +1,149 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mining"
+	group: ""
+	id: "454F4078E2327985"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			id: "2038B96219FB8A3C"
+			rewards: [{
+				count: 2
+				id: "72ACC1341F42B445"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				id: "77518D727F07B0C2"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			title: "Consigue cobre"
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "552D3AB21B5C07F2"
+			rewards: [{
+				count: 2
+				id: "5DF95FC19969A936"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				id: "153002BA850E164E"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			title: "Consigue hierro"
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "6A6DFAC4754FAD37"
+			rewards: [{
+				count: 2
+				id: "79F4D9B2F4C8D0C6"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				id: "07C0546117206CE9"
+				item: "minecraft:coal"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "47BEA13032A1F4EE"
+			rewards: [{
+				count: 2
+				id: "1536AD45BA16CBAA"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4BC4DDB7EA0E53CE"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "23C163C0A113FD73"
+			rewards: [{
+				count: 2
+				id: "4827EEACF9172356"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0C46A232F727CECB"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "5B90C75433206256"
+			rewards: [{
+				count: 2
+				id: "0C6F4292BB875A5B"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				id: "183989B86C0A2291"
+				item: "minecraft:netherite_ingot"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "6A5053D73086CB64"
+			rewards: [{
+				count: 2
+				id: "1713C267213FB56E"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0C19E82E4E812DBE"
+				item: "minecraft:coal_ore"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			id: "17151B9AF6CC8375"
+			rewards: [{
+				count: 2
+				id: "2C40A955E69D9F76"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				id: "53BEB5345A62C527"
+				item: "minecraft:copper_ore"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+	]
+	title: "Mining"
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "ac52b3cffd3c335bbd5367f31375a168"
+	name: "Anzu_ara#ac52b3cf"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
