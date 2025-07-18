@@ -1123,3 +1123,10 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Jul2025 03:00:19.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
 [18Jul2025 03:00:19.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
 [18Jul2025 03:00:19.426] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[18Jul2025 03:06:43.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement [A Flaming Sword]
+[18Jul2025 03:07:54.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement [Dragonslayer]
+[18Jul2025 03:09:18.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement [A Bigger Blade]
+[18Jul2025 03:10:46.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Gave 64 [Enchanted Golden Apple] to ServerZero]
+[18Jul2025 03:10:52.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Set own game mode to Creative Mode]
+[18Jul2025 03:10:59.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero moved too quickly! 2.8412681271997613,0.0,-10.495637438456242
+[18Jul2025 03:11:56.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero moved too quickly! -8.879450598686372,0.0,6.0918555655338835

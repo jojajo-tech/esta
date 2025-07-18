@@ -806,6 +806,32 @@
 			x: -6.0d
 			y: 2.0d
 		}
+		{
+			can_repeat: true
+			id: "1232A9937CDB93D8"
+			rewards: [
+				{
+					count: 10
+					id: "3873A42ECBCB8201"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "68F8B65D9EF4648A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:lightning_dragon"
+				icon: "iceandfire:lightning_dragon_blood"
+				id: "5787AB7022178B77"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: 2.0d
+		}
 	]
 	title: "Cacería"
 }
