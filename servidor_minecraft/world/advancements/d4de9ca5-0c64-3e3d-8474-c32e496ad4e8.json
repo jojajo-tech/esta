@@ -2854,6 +2854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-18 02:35:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_green_leggings": {
     "criteria": {
       "has_item": "2025-07-18 02:22:08 +0000"
@@ -2911,6 +2917,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
       "has_sea_serpent_scales_blue": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 02:35:32 +0000"
     },
     "done": true
   },
@@ -3055,6 +3067,12 @@
   "spartanfire:recipes/jungle_myrmex_chitin_scythe": {
     "criteria": {
       "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-07-18 02:36:33 +0000"
     },
     "done": true
   },
@@ -3439,6 +3457,12 @@
   "iceandfire:recipes/combat/myrmex_desert_leggings": {
     "criteria": {
       "has_item": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/tools/horn_of_sight": {
+    "criteria": {
+      "has_hallowed_gem": "2025-07-18 02:37:59 +0000"
     },
     "done": true
   },
