@@ -654,6 +654,101 @@
 			x: -5.0d
 			y: -1.5d
 		}
+		{
+			can_repeat: true
+			id: "22119FCEF8ADA5D1"
+			rewards: [{
+				count: 4
+				id: "09F8FF3AC790D9D1"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:pig"
+				icon: "minecraft:porkchop"
+				id: "2771FF9F5E5C7515"
+				type: "kill"
+				value: 100L
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			id: "1DF18F2C396F4BE2"
+			rewards: [{
+				count: 4
+				id: "15D6E1939D0C7256"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:mooshroom"
+				icon: "minecraft:red_mushroom"
+				id: "07FB17C6645FFC37"
+				type: "kill"
+				value: 100L
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			can_repeat: true
+			id: "3D92630C03B13603"
+			rewards: [{
+				count: 4
+				id: "0BBBD4CD67BD2F70"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:sheep"
+				icon: "minecraft:white_wool"
+				id: "16184F556F399CD2"
+				type: "kill"
+				value: 100L
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			can_repeat: true
+			id: "6E063C1F860C564D"
+			rewards: [{
+				count: 4
+				id: "5BBB22A3A818F3A2"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:chicken"
+				icon: "minecraft:cooked_chicken"
+				id: "2FDB52836E0F692E"
+				type: "kill"
+				value: 100L
+			}]
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			id: "5CC8F42131A66529"
+			rewards: [{
+				count: 4
+				id: "5EC2C45CBCB90097"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:cow"
+				icon: "minecraft:cooked_beef"
+				id: "55E633E16987A2F2"
+				type: "kill"
+				value: 100L
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
 	]
 	title: "Cacería"
 }

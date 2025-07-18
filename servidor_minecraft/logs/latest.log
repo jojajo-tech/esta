@@ -1099,3 +1099,13 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Jul2025 02:41:20.147] [Server thread/INFO] [Easy NPC/]: Opening menu 0bb503be-5004-4b38-aabc-c5af0bb17639 for npc c57d7618-d791-4c3b-9c74-b6ea12c2be6c and player ServerPlayer['ServerZero'/954, l='ServerLevel[world]', x=-64.58, y=64.00, z=16.31] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[entity.easy_npc.]}]
 [18Jul2025 02:41:28.829] [Server thread/INFO] [Easy NPC/]: Opening menu 1ec01596-337e-4563-b7cf-401e740bfb1b for npc c57d7618-d791-4c3b-9c74-b6ea12c2be6c and player ServerPlayer['ServerZero'/954, l='ServerLevel[world]', x=-64.58, y=64.00, z=16.31] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[entity.easy_npc.]}]
 [18Jul2025 02:41:49.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> listo tradings de ice and fire
+[18Jul2025 02:41:54.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
+[18Jul2025 02:42:43.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> LOS CAMINOS ESTAN LISTOS
+[18Jul2025 02:44:37.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> UFF
+[18Jul2025 02:45:40.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> byron que opinas?
+[18Jul2025 02:46:56.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ya mira misones de caza
+[18Jul2025 02:47:10.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ya vi
+[18Jul2025 02:47:20.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MCHOS CERDOS
+[18Jul2025 02:48:45.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> peru escala ta quedando bien :)
+[18Jul2025 02:50:37.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=950, y=66, z=848} BlockPos{x=949, y=66, z=849}
+[18Jul2025 02:51:38.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> gustambo
