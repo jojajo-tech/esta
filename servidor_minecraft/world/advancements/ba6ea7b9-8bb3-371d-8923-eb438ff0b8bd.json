@@ -4150,13 +4150,25 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/creeper": {
+  "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
-      "has_gunpowder": "2025-07-18 02:37:01 +0000"
+      "has_any_ingredient": "2025-07-18 02:09:25 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/chicken_soup": {
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-18 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-18 02:09:25 +0000"
     },
@@ -4180,30 +4192,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-07-18 02:37:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 02:09:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/explosive_charge": {
-    "criteria": {
-      "has_gunpowder": "2025-07-18 02:37:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-07-18 02:50:03 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_bow": "2025-07-18 02:33:11 +0000"
@@ -4216,15 +4204,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-07-18 02:09:25 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_arrow": {
     "criteria": {
       "has_bow": "2025-07-18 02:33:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-07-18 02:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-18 02:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-07-18 02:37:01 +0000"
     },
     "done": true
   },
@@ -4234,9 +4234,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_any_ingredient": "2025-07-18 02:09:25 +0000"
+      "has_azure_bluet": "2025-07-18 02:50:03 +0000"
     },
     "done": true
   },
