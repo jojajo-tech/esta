@@ -4171,6 +4171,12 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/obsidian_from_diamond": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 23:19:59 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/seeking_arrow": {
     "criteria": {
       "seeking_arrow": "2025-07-18 21:37:29 +0000"
@@ -4186,6 +4192,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_iron": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 23:20:04 +0000"
     },
     "done": true
   },
@@ -4213,6 +4225,24 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/gold_from_copper": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 23:19:58 +0000"
+    },
+    "done": true
+  },
+  "packedup:diamond_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-18 23:19:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-07-18 23:15:38 +0000"
+    },
+    "done": true
+  },
   "mca:adventure/scythe_kill": {
     "criteria": {
       "iron": "2025-07-18 22:19:37 +0000"
@@ -4228,6 +4258,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-07-18 22:09:15 +0000"
+    },
+    "done": true
+  },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-18 23:19:58 +0000"
     },
     "done": true
   },
@@ -4291,6 +4327,18 @@
     },
     "done": true
   },
+  "packedup:silver_or_gold_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-18 23:20:00 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 23:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
@@ -4315,9 +4363,27 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 23:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-18 22:52:29 +0000"
+    },
+    "done": true
+  },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-18 23:19:56 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_iron": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 23:20:04 +0000"
     },
     "done": true
   },
@@ -4327,9 +4393,21 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/diamond_from_silver": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 23:20:08 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-07-18 23:14:55 +0000"
     },
     "done": true
   },
@@ -4387,9 +4465,21 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/diamond_from_gold": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 23:20:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-18 22:52:29 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_copper": {
+    "criteria": {
+      "recipe_condition": "2025-07-18 23:19:58 +0000"
     },
     "done": true
   },
@@ -4498,6 +4588,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-07-18 22:09:15 +0000"
+    },
+    "done": true
+  },
+  "packedup:obsidian_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-18 23:20:06 +0000"
     },
     "done": true
   },
