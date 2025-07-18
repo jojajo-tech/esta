@@ -144,6 +144,40 @@
 			x: -0.5d
 			y: -1.5d
 		}
+		{
+			can_repeat: false
+			id: "74FE159161FE9E81"
+			rewards: [{
+				count: 2
+				id: "2264034680B4C096"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B1267C33473F061"
+				item: "minecraft:iron_ore"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			id: "0B0904111655C1FE"
+			rewards: [{
+				count: 2
+				id: "49E26FFCE98FE39A"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				id: "29DCE13000A599D2"
+				item: "minecraft:gold_ore"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
 	]
 	title: "Mining"
 }

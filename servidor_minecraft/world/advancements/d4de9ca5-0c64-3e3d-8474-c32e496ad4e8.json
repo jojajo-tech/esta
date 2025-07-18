@@ -2609,315 +2609,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
-    "criteria": {
-      "has_witherbone": "2025-07-18 02:25:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_stinger_throwing_knife": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_pike": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-07-18 03:09:39 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_stinger_lance": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_stinger_spear": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_parrying_dagger": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_sword": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_helmet": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_helmet": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/grease_ball": {
-    "criteria": {
-      "has_meat": "2025-07-18 03:08:56 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_throwing_knife": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_saber": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_rapier": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
-    "criteria": {
-      "has_witherbone": "2025-07-18 02:25:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_stinger_dagger": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 03:09:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_stinger_rapier": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_boomerang": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_dagger": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-07-18 03:09:13 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_longsword": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_stinger_rapier": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_helmet": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_stinger_battleaxe": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_spear": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_boomerang": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_stinger_longsword": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_stinger_dagger": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_dagger": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_katana": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_leggings": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_flanged_mace": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_rapier": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_throwing_knife": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_stinger_saber": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_stinger_javelin": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_pike": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_battleaxe": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_stinger_parrying_dagger": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_shovel": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_pole_from_string": {
-    "criteria": {
-      "has_witherbone": "2025-07-18 02:25:37 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_scythe": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-07-18 01:59:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 03:09:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_axe": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:23 +0000"
     },
     "done": true
   },
@@ -2927,63 +2621,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
+  "spartanfire:recipes/desert_myrmex_chitin_parrying_dagger": {
     "criteria": {
-      "has_stripped_logs": "2025-07-18 02:35:32 +0000"
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_green_leggings": {
+  "iceandfire:recipes/tools/myrmex_desert_sword": {
     "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
+      "has_item": "2025-07-18 02:13:22 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
+  "spartanfire:recipes/desert_myrmex_chitin_boomerang": {
     "criteria": {
-      "killed_lightning_dragon": "2025-07-18 03:07:54 +0000"
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/myrmex_resin": {
+  "spartanfire:recipes/desert_myrmex_chitin_longsword": {
     "criteria": {
-      "resin": "2025-07-18 02:13:29 +0000"
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_leggings": {
+  "spartanfire:recipes/desert_myrmex_chitin_spear": {
     "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/chicken": {
+  "spartanfire:recipes/desert_myrmex_chitin_katana": {
     "criteria": {
-      "has_feather": "2025-07-18 03:09:39 +0000"
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/jungle_myrmex_chitin_glaive": {
+  "spartanfire:recipes/desert_myrmex_chitin_throwing_knife": {
     "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/desert_myrmex_stinger_boomerang": {
+  "spartanfire:recipes/desert_myrmex_chitin_pike": {
     "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+  "iceandfire:recipes/tools/myrmex_desert_shovel": {
     "criteria": {
-      "has_item": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_handle_from_string": {
-    "criteria": {
-      "has_witherbone": "2025-07-18 02:25:37 +0000"
+      "has_item": "2025-07-18 02:13:22 +0000"
     },
     "done": true
   },
@@ -2999,57 +2687,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
-    "criteria": {
-      "has_sea_serpent_scales_blue": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-07-18 02:35:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:longsword": {
-    "criteria": {
-      "has_longsword": "2025-07-18 03:09:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/myrmex_desert_hoe": {
     "criteria": {
       "has_item": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_stinger_saber": {
-    "criteria": {
-      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-07-18 03:08:56 +0000"
     },
     "done": true
   },
@@ -3059,33 +2699,429 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
-    "criteria": {
-      "has_sea_serpent_scales_deepblue": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/desert_myrmex_chitin_scythe": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_greatsword": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/desert_myrmex_chitin_greatsword": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_quarterstaff": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_glaive": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_dagger": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_lance": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_battle_hammer": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_rapier": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_tomahawk": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_warhammer": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_flanged_mace": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_halberd": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_battleaxe": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_longbow": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_heavy_crossbow": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_throwing_knife": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_saber": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_boomerang": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_dagger": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_rapier": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_battleaxe": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_glaive": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_quarterstaff": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_lance": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_battle_hammer": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_scythe": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_flanged_mace": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_tomahawk": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_pike": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_parrying_dagger": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_halberd": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_greatsword": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_longbow": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_katana": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_warhammer": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_longsword": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_heavy_crossbow": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_spear": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_chitin_javelin": {
+    "criteria": {
+      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "resin": "2025-07-18 02:13:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_desert": {
+    "criteria": {
+      "has_item": "2025-07-18 02:13:29 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_stinger_throwing_knife": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_stinger_lance": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_stinger_spear": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_stinger_dagger": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_stinger_rapier": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_stinger_rapier": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_stinger_battleaxe": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_stinger_longsword": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_stinger_dagger": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_stinger_saber": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_stinger_javelin": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_stinger_parrying_dagger": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_stinger_boomerang": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/jungle_myrmex_stinger_saber": {
+    "criteria": {
+      "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
     },
     "done": true
   },
@@ -3101,45 +3137,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-07-18 03:09:39 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_quarterstaff": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/myrmex_resin_jungle": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/jungle_myrmex_stinger_pike": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_lance": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:23 +0000"
     },
     "done": true
   },
@@ -3161,27 +3161,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/bolt": {
-    "criteria": {
-      "has_feather": "2025-07-18 03:09:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_boots": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/jungle_myrmex_stinger_greatsword": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
-    "criteria": {
-      "has_sea_serpent_scales_bronze": "2025-07-18 02:22:08 +0000"
     },
     "done": true
   },
@@ -3191,141 +3173,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_leggings": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_battle_hammer": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_arrow": {
-    "criteria": {
-      "has_feather": "2025-07-18 03:09:39 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_bolt": {
-    "criteria": {
-      "has_feather": "2025-07-18 03:09:39 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_throwing_knife": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-07-18 03:08:56 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_glaive": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_scythe": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-07-18 02:36:33 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_quarterstaff": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_flanged_mace": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/desert_myrmex_stinger_warhammer": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_tomahawk": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_pike": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_glaive": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
-    "criteria": {
-      "has_sea_serpent_scales_purple": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pig": {
-    "criteria": {
-      "has_porkchop": "2025-07-18 03:08:56 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_parrying_dagger": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cake": {
-    "criteria": {
-      "has_egg": "2025-07-18 03:09:13 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_dagger": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_parrying_dagger": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
     },
     "done": true
   },
@@ -3335,39 +3185,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/dragon_bone_warhammer": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_lance": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_longsword": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_halberd": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/desert_myrmex_stinger_katana": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-07-18 03:09:13 +0000"
     },
     "done": true
   },
@@ -3377,69 +3197,15 @@
     },
     "done": true
   },
-  "spartanfire:recipes/desert_myrmex_chitin_battle_hammer": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/desert_myrmex_stinger_throwing_knife": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-07-18 03:09:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_leggings": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_meal": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:56 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_rapier": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_myrmex": {
-    "criteria": {
-      "chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_battle_hammer": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
-    "criteria": {
-      "has_witherbone": "2025-07-18 02:25:37 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/desert_myrmex_stinger_longbow": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_tomahawk": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
     },
     "done": true
   },
@@ -3455,69 +3221,9 @@
     },
     "done": true
   },
-  "spartanweaponry:heavy_crossbow": {
-    "criteria": {
-      "has_heavy_crossbow": "2025-07-18 03:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-07-18 02:26:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-07-18 03:09:39 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_greatsword": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_warhammer": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/desert_myrmex_stinger_lance": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_longbow": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 03:08:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-07-18 03:09:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_boots": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
     },
     "done": true
   },
@@ -3527,141 +3233,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/myrmex_desert_helmet": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/diamond_bolt": {
-    "criteria": {
-      "has_feather": "2025-07-18 03:09:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_leggings": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/jungle_myrmex_stinger_spear": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2025-07-18 03:06:43 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_longbow": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-07-18 03:16:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-07-18 03:08:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 03:08:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/myrmex_resin_desert": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_lance": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
-    "criteria": {
-      "has_witherbone": "2025-07-18 02:25:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_helmet": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/small_bolt_quiver": {
-    "criteria": {
-      "has_bolt": "2025-07-18 03:18:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_leggings": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_flanged_mace": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_halberd": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_halberd": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
     },
     "done": true
   },
@@ -3683,33 +3257,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_katana": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/desert_myrmex_stinger_parrying_dagger": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_boomerang": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-18 03:09:13 +0000"
     },
     "done": true
   },
@@ -3725,33 +3275,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/desert_myrmex_chitin_battleaxe": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/jungle_myrmex_stinger_heavy_crossbow": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_javelin": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_sword": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_katana": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
     },
     "done": true
   },
@@ -3761,51 +3287,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/iron_arrow": {
-    "criteria": {
-      "has_feather": "2025-07-18 03:09:39 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/netherite_smithing": {
-    "criteria": {
-      "has_netherite": "2025-07-18 03:19:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
-    "criteria": {
-      "has_sea_serpent_scales_red": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/jungle_myrmex_stinger_scythe": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_tomahawk": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_warhammer": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_arrow": {
-    "criteria": {
-      "has_feather": "2025-07-18 03:09:39 +0000"
     },
     "done": true
   },
@@ -3815,51 +3299,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_helmet": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_spear": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/desert_myrmex_stinger_javelin": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_desert_leggings": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "illagerinvasion:recipes/tools/horn_of_sight": {
-    "criteria": {
-      "has_hallowed_gem": "2025-07-18 02:37:59 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_saber": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_desert_boots": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
-    "criteria": {
-      "has_sea_serpent_scales_teal": "2025-07-18 02:22:08 +0000"
     },
     "done": true
   },
@@ -3869,171 +3311,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/wolf": {
-    "criteria": {
-      "has_bone": "2025-07-18 02:25:37 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/jungle_myrmex_stinger_battleaxe": {
     "criteria": {
       "has_myrmex_stinger": "2025-07-18 02:13:30 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/potions": {
-    "criteria": {
-      "has_item": "2025-07-18 03:09:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/diamond_arrow": {
-    "criteria": {
-      "has_feather": "2025-07-18 03:09:39 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_battleaxe": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_longsword": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_longbow": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_green_boots": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_green_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_heavy_crossbow": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-07-18 02:13:22 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_heavy_crossbow": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_heavy_crossbow": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_spear": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_boots": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_horn": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
-    "criteria": {
-      "has_sea_serpent_scales_green": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_stick": {
-    "criteria": {
-      "has_item": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_boots": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/dragon_bone_quarterstaff": {
-    "criteria": {
-      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_helmet": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
-    "criteria": {
-      "has_item": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_green_helmet": {
-    "criteria": {
-      "has_item": "2025-07-18 02:22:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/jungle_myrmex_chitin_javelin": {
-    "criteria": {
-      "has_jungle_myrmex_chitin": "2025-07-18 02:13:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-07-18 03:10:46 +0000"
     },
     "done": true
   },
@@ -4049,9 +3329,741 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-07-18 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-07-18 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-07-18 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-07-18 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-07-18 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-07-18 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-07-18 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-18 02:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-18 02:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 02:35:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-07-18 02:36:33 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/tools/horn_of_sight": {
+    "criteria": {
+      "has_hallowed_gem": "2025-07-18 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-07-18 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-07-18 03:07:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_pike": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_rapier": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_dagger": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_scythe": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_greatsword": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_glaive": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_warhammer": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_longsword": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_longbow": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_lance": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_halberd": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_katana": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_boomerang": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_javelin": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_tomahawk": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_spear": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_saber": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_battleaxe": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_dragon_bone": "2025-07-18 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_meat": "2025-07-18 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-18 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-18 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-07-18 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-07-18 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-18 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-18 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-07-18 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-07-18 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-18 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-07-18 03:09:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-07-18 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-07-18 03:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-18 03:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-18 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-07-18 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-07-18 03:18:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_smithing": {
+    "criteria": {
+      "has_netherite": "2025-07-18 03:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-18 03:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-18 03:28:43 +0000"
     },
     "done": true
   },
