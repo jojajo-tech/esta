@@ -1076,6 +1076,16 @@
 			x: 8.5d
 			y: 3.0d
 		}
+		{
+			id: "4D2A3918807A69D2"
+			tasks: [{
+				id: "2CE39C0D816BA8A5"
+				item: "spartan_materials:tin_block"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
 	]
 	title: "Mining"
 }
