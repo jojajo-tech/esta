@@ -4153,9 +4153,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-07-18 22:19:28 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/seeking_arrow": {
     "criteria": {
       "seeking_arrow": "2025-07-18 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-18 22:29:20 +0000"
     },
     "done": true
   },
@@ -4165,9 +4177,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-18 22:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_kill": {
+    "criteria": {
+      "iron": "2025-07-18 22:19:37 +0000"
     },
     "done": true
   },
@@ -4186,6 +4210,12 @@
   "illagerinvasion:recipes/misc/hallowed_gem": {
     "criteria": {
       "has_unusual_dust_and_illusionary_dust": "2025-07-18 21:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-18 22:29:20 +0000"
     },
     "done": true
   },
@@ -4213,6 +4243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-18 22:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
@@ -4237,6 +4273,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-18 22:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-18 22:29:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2025-07-18 22:14:48 +0000"
@@ -4249,6 +4297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-18 22:29:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/handle_from_string": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
@@ -4258,6 +4312,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-18 22:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-18 22:29:20 +0000"
     },
     "done": true
   },
@@ -4318,6 +4378,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-18 22:29:20 +0000"
     },
     "done": true
   },

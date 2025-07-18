@@ -885,6 +885,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-07-12 21:15:23 +0000",
+      "sweet_berries": "2025-07-18 22:18:05 +0000",
       "beef": "2025-07-13 23:53:24 +0000",
       "porkchop": "2025-07-12 20:35:58 +0000",
       "potato": "2025-07-18 22:13:53 +0000",
@@ -4245,6 +4246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-18 22:34:54 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-18 21:45:27 +0000"
@@ -4275,11 +4282,23 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-07-18 22:27:03 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-18 21:45:27 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-07-18 22:18:03 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
@@ -4305,15 +4324,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-18 22:34:54 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-18 21:45:27 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-07-18 22:27:03 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-18 21:45:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-07-18 22:27:03 +0000"
     },
     "done": true
   },
@@ -4347,6 +4384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-18 22:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-18 22:05:11 +0000"
@@ -4356,6 +4399,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-18 21:45:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-07-18 22:27:03 +0000"
     },
     "done": true
   },
@@ -4425,6 +4474,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-07-18 22:30:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-18 21:45:27 +0000"
@@ -4458,6 +4513,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-18 21:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-18 22:22:58 +0000"
     },
     "done": true
   },

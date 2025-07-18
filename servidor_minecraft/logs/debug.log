@@ -9059,3 +9059,167 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Jul2025 22:20:55.524] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/18664, l='ServerLevel[world]', x=-60.36, y=64.00, z=7.51] died, message: 'Librarian was slain by ServerZero'
 [18Jul2025 22:20:55.526] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [18Jul2025 22:22:06.243] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:22:44.189] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:22:45.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 22:22:45.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 22:23:51.049] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/19760, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[18Jul2025 22:23:51.049] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/19760, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[18Jul2025 22:23:51.049] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/19760, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[18Jul2025 22:23:51.050] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@7d57e20b, net.minecraft.world.item.trading.MerchantOffer@431eed7, net.minecraft.world.item.trading.MerchantOffer@3deedf87, net.minecraft.world.item.trading.MerchantOffer@267f99d5, net.minecraft.world.item.trading.MerchantOffer@64fa60ab] for Humanoid['entity.easy_npc.humanoid'/19760, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[18Jul2025 22:24:23.713] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:24:24.213] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:24:24.718] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:24:25.227] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:24:25.718] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:24:26.216] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:24:26.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Abdulah'/18929, l='ServerLevel[world]', x=835.70, y=63.00, z=693.62] died, message: 'Abdulah (Following) was burnt to a crisp whilst fighting Fire Dragon'
+[18Jul2025 22:24:26.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Abdulah'/18929, l='ServerLevel[world]', x=835.70, y=63.00, z=693.62] died: Abdulah (Following) was burnt to a crisp whilst fighting Fire Dragon
+[18Jul2025 22:24:26.732] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:25:16.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:25:17.112] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:25:19.668] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:25:19.669] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:25:21.761] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:25:22.261] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:25:22.914] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:25:23.563] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:25:25.570] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:25:25.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was turned into KFC by Fire Dragon
+[18Jul2025 22:25:25.573] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_18.07.2025-22.25.25.dat
+[18Jul2025 22:25:26.751] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:25:26.752] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jul2025 22:25:26.752] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[18Jul2025 22:26:27.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:26:30.233] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:26:30.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Joo-Han'/20305, l='ServerLevel[world]', x=-58.18, y=64.00, z=18.65] died, message: 'Joo-Han was slain by ServerZero'
+[18Jul2025 22:26:30.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:26:55.278] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:26:58.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:27:13.327] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:27:18.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:27:25.897] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:27:27.297] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:27:27.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ji-Hoon'/20728, l='ServerLevel[world]', x=-51.07, y=65.00, z=11.98] died, message: 'Ji-Hoon was slain by ServerZero'
+[18Jul2025 22:27:27.299] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:27:45.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 22:27:45.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 22:29:49.420] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:29:50.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:29:52.370] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:29:54.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:29:55.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:30:00.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:30:08.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Gave 1 [Command Block] to ServerZero]
+[18Jul2025 22:30:10.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:30:11.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:30:11.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:30:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Take Aim, Chaps!]
+[18Jul2025 22:31:52.683] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:31:59.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:32:00.617] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:32:02.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:32:03.619] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:32:05.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:32:06.531] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:32:06.568] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:32:08.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:32:09.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:32:31.969] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:32:38.164] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:32:45.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 22:32:45.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 22:34:02.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:34:02.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[18Jul2025 22:34:02.224] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_18.07.2025-22.34.02.dat
+[18Jul2025 22:34:03.450] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:34:03.451] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jul2025 22:34:03.451] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[18Jul2025 22:34:48.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:34:53.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:34:53.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:34:53.324] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 0.5 = Result damage: 3.5 - Overridden sweep damage ratio to 0.35714287
+[18Jul2025 22:34:55.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:34:56.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:34:57.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:34:57.913] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:34:58.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:34:58.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:05.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:06.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:27.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:34.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:34.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:35:34.173] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 0.5 = Result damage: 3.5 - Overridden sweep damage ratio to 0.35714287
+[18Jul2025 22:35:34.572] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:36.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:36.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:35:36.223] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 0.5 = Result damage: 3.5 - Overridden sweep damage ratio to 0.35714287
+[18Jul2025 22:35:38.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:38.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:35:38.272] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 0.5 = Result damage: 3.5 - Overridden sweep damage ratio to 0.35714287
+[18Jul2025 22:35:40.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:42.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:42.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:54.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:55.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:56.819] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:35:57.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:36:25.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:36:25.120] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:36:25.120] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 0.5 = Result damage: 3.5 - Overridden sweep damage ratio to 0.35714287
+[18Jul2025 22:37:15.712] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:37:17.712] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:37:19.564] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:37:19.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:37:20.068] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:37:20.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:37:21.116] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:37:21.568] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:37:21.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was impaled by Drowned
+[18Jul2025 22:37:21.571] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_18.07.2025-22.37.21.dat
+[18Jul2025 22:37:22.763] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:37:22.764] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jul2025 22:37:22.764] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[18Jul2025 22:37:45.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 22:37:45.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 22:38:01.815] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:38:04.815] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:38:09.017] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:38:10.816] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:39:10.772] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:39:12.771] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:39:14.764] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:39:16.763] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:39:18.767] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:39:20.766] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:39:22.770] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:39:24.766] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:39:26.769] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:39:26.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover froze to death
+[18Jul2025 22:39:26.772] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_18.07.2025-22.39.26.dat
+[18Jul2025 22:39:27.968] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:39:27.968] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jul2025 22:39:27.968] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[18Jul2025 22:40:59.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:01.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:03.968] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:05.965] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:07.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:09.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:11.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:12.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:41:12.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:41:12.619] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 0.5 = Result damage: 3.5 - Overridden sweep damage ratio to 0.35714287
+[18Jul2025 22:41:12.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:41:13.965] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:15.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:17.964] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:19.979] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:21.966] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:23.963] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:25.965] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:27.962] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:29.965] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:41:31.977] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:42:45.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 22:42:45.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

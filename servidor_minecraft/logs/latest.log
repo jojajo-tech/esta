@@ -1037,3 +1037,29 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Jul2025 22:19:37.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement [Become the Grim Reaper]
 [18Jul2025 22:19:58.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Chung-Yeol'/18398, l='ServerLevel[world]', x=-54.13, y=64.00, z=10.32] died, message: 'Chung-Yeol was slain by ServerZero'
 [18Jul2025 22:20:55.524] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/18664, l='ServerLevel[world]', x=-60.36, y=64.00, z=7.51] died, message: 'Librarian was slain by ServerZero'
+[18Jul2025 22:23:51.049] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/19760, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[18Jul2025 22:23:51.049] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/19760, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[18Jul2025 22:23:51.049] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/19760, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[18Jul2025 22:23:51.050] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@7d57e20b, net.minecraft.world.item.trading.MerchantOffer@431eed7, net.minecraft.world.item.trading.MerchantOffer@3deedf87, net.minecraft.world.item.trading.MerchantOffer@267f99d5, net.minecraft.world.item.trading.MerchantOffer@64fa60ab] for Humanoid['entity.easy_npc.humanoid'/19760, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[18Jul2025 22:24:26.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Abdulah'/18929, l='ServerLevel[world]', x=835.70, y=63.00, z=693.62] died, message: 'Abdulah (Following) was burnt to a crisp whilst fighting Fire Dragon'
+[18Jul2025 22:24:26.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Abdulah'/18929, l='ServerLevel[world]', x=835.70, y=63.00, z=693.62] died: Abdulah (Following) was burnt to a crisp whilst fighting Fire Dragon
+[18Jul2025 22:25:25.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was turned into KFC by Fire Dragon
+[18Jul2025 22:25:25.573] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_18.07.2025-22.25.25.dat
+[18Jul2025 22:25:26.752] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jul2025 22:25:26.752] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[18Jul2025 22:26:30.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Joo-Han'/20305, l='ServerLevel[world]', x=-58.18, y=64.00, z=18.65] died, message: 'Joo-Han was slain by ServerZero'
+[18Jul2025 22:27:27.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ji-Hoon'/20728, l='ServerLevel[world]', x=-51.07, y=65.00, z=11.98] died, message: 'Ji-Hoon was slain by ServerZero'
+[18Jul2025 22:30:08.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Gave 1 [Command Block] to ServerZero]
+[18Jul2025 22:30:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Take Aim, Chaps!]
+[18Jul2025 22:34:02.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[18Jul2025 22:34:02.224] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_18.07.2025-22.34.02.dat
+[18Jul2025 22:34:03.451] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jul2025 22:34:03.451] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[18Jul2025 22:37:21.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was impaled by Drowned
+[18Jul2025 22:37:21.571] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_18.07.2025-22.37.21.dat
+[18Jul2025 22:37:22.764] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jul2025 22:37:22.764] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[18Jul2025 22:39:26.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover froze to death
+[18Jul2025 22:39:26.772] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_18.07.2025-22.39.26.dat
+[18Jul2025 22:39:27.968] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jul2025 22:39:27.968] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
