@@ -1113,6 +1113,24 @@
 			x: -6.0d
 			y: 0.5d
 		}
+		{
+			can_repeat: true
+			id: "7D44718835BDCCEA"
+			rewards: [{
+				id: "69AFBF9AE40CD579"
+				item: "dedsafio3:alma_gema"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "mca:male_zombie_villager"
+				icon: "scalinghealth:power_crystal"
+				id: "4989BBD64FCE1A99"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
 	]
 	title: "Cacería"
 }

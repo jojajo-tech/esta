@@ -4147,6 +4147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-18 22:52:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-07-18 22:14:48 +0000"
@@ -4201,6 +4207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-18 22:52:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-07-18 22:09:15 +0000"
@@ -4222,6 +4234,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-07-18 22:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-18 22:52:29 +0000"
     },
     "done": true
   },
@@ -4255,9 +4273,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-18 22:52:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-18 22:52:29 +0000"
     },
     "done": true
   },
@@ -4303,6 +4333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-18 22:52:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/handle_from_string": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
@@ -4318,6 +4354,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-07-18 22:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-18 22:52:29 +0000"
     },
     "done": true
   },
@@ -4345,6 +4387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-18 22:52:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-07-18 22:09:13 +0000"
@@ -4369,6 +4417,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-18 22:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-18 22:52:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-18 22:14:48 +0000"
@@ -4378,6 +4438,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-18 22:44:34 +0000"
     },
     "done": true
   },

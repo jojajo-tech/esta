@@ -9223,3 +9223,188 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Jul2025 22:41:31.977] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [18Jul2025 22:42:45.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 22:42:45.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 22:43:53.016] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:43:53.551] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:43:54.276] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:43:54.718] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:43:54.765] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:43:55.269] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:43:55.764] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:43:55.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was turned into KFC by Fire Dragon
+[18Jul2025 22:43:55.767] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_18.07.2025-22.43.55.dat
+[18Jul2025 22:43:56.972] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:43:56.972] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jul2025 22:43:56.972] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[18Jul2025 22:45:18.200] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:45:37.074] [Server thread/INFO] [Easy NPC/]: Opening menu 297611b8-c54d-4655-b79d-d9c26543992b for npc 688b1c7d-fea3-40f2-9045-0f32b0ce6aa4 and player ServerPlayer['ServerZero'/1154, l='ServerLevel[world]', x=-62.50, y=64.00, z=7.24] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[HUEVOS!]}]
+[18Jul2025 22:45:38.141] [Server thread/INFO] [Easy NPC/]: Opening menu 31a612e6-12c9-43ba-9aeb-61b344fcd636 for npc 688b1c7d-fea3-40f2-9045-0f32b0ce6aa4 and player ServerPlayer['ServerZero'/1154, l='ServerLevel[world]', x=-62.50, y=64.00, z=7.24] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[HUEVOS!]}]
+[18Jul2025 22:45:44.872] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:45:49.064] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Jul2025 22:45:49.114] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Jul2025 22:45:49.167] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Jul2025 22:45:49.215] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Jul2025 22:45:49.273] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Jul2025 22:45:59.966] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Jul2025 22:46:00.015] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Jul2025 22:46:03.469] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:46:06.965] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:46:07.969] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:47:25.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:47:26.141] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:47:33.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:47:34.069] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:47:34.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:47:35.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:47:40.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:47:41.418] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:47:45.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 22:47:45.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 22:49:33.961] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:49:33.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was turned into KFC by Fire Dragon
+[18Jul2025 22:49:33.964] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_18.07.2025-22.49.33.dat
+[18Jul2025 22:49:35.268] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:49:35.268] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jul2025 22:49:35.268] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[18Jul2025 22:50:12.950] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:58413
+[18Jul2025 22:50:23.221] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:50:27.288] [Server thread/INFO] [Easy NPC/]: Opening menu 165a6a78-cae8-4118-9d24-5e068cd44411 for npc 688b1c7d-fea3-40f2-9045-0f32b0ce6aa4 and player ServerPlayer['ServerZero'/1154, l='ServerLevel[world]', x=-62.68, y=64.00, z=6.67] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[HUEVOS!]}]
+[18Jul2025 22:50:28.376] [Server thread/INFO] [Easy NPC/]: Opening menu a7179001-95f2-49b8-854e-6650d04e9702 for npc 688b1c7d-fea3-40f2-9045-0f32b0ce6aa4 and player ServerPlayer['ServerZero'/1154, l='ServerLevel[world]', x=-62.68, y=64.00, z=6.67] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[HUEVOS!]}]
+[18Jul2025 22:50:33.315] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:50:33.832] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:50:38.110] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:50:48.546] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:50:51.196] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:50:51.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rok'/31181, l='ServerLevel[world]', x=-51.95, y=65.00, z=11.08] died, message: 'Rok was slain by ServerZero'
+[18Jul2025 22:51:22.747] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:51:23.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:51:23.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:51:25.193] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:51:25.262] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:51:25.770] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:51:26.269] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:51:26.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:51:26.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jong-Tae'/31340, l='ServerLevel[world]', x=-51.75, y=68.00, z=17.70] died, message: 'Jong-Tae was slain by ServerZero'
+[18Jul2025 22:51:26.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:51:27.095] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:51:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover walked into fire whilst fighting Fire Dragon
+[18Jul2025 22:51:27.098] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_18.07.2025-22.51.27.dat
+[18Jul2025 22:51:28.784] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:51:28.785] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jul2025 22:51:28.785] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[18Jul2025 22:51:30.352] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:51:56.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> oye las misiones sirven?
+[18Jul2025 22:52:45.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 22:52:45.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 22:52:47.264] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:52:48.624] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:52:52.061] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:52:52.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:52:52.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:52.317] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:52:52.371] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:52:52.420] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:52:52.561] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:52:53.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:52:53.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.692] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.694] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.697] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.697] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.700] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.700] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.702] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.702] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.703] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:53.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:56.224] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 22:52:58.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:58.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:52:58.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:58.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:58.042] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:58.042] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:58.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:58.044] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:58.044] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:52:58.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:09.297] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:09.297] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:53:09.297] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:09.297] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:09.297] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:09.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:09.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:09.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:09.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:09.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:09.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:09.299] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:11.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:11.044] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 22:53:11.044] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:11.044] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:11.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:11.046] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:11.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:11.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:11.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:11.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:11.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:11.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:14.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 22:53:14.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
