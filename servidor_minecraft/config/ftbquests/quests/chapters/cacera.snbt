@@ -135,12 +135,19 @@
 		{
 			can_repeat: true
 			id: "0DC65FC74D894F2C"
-			rewards: [{
-				count: 6
-				id: "5929C554F2F583F4"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 6
+					id: "5929C554F2F583F4"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "18DA3D0083DC61D8"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
 			tasks: [{
 				entity: "minecraft:cave_spider"
 				icon: "spartanweaponry:cave_spider_head"
@@ -182,6 +189,7 @@
 			id: "6ADC1BD16D20F2BE"
 			rewards: [
 				{
+					count: 3
 					id: "790A043B78CC8D81"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -207,7 +215,7 @@
 			id: "00D4A00BD1E836AE"
 			rewards: [
 				{
-					count: 3
+					count: 6
 					id: "2F295AE3A61F2784"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -215,7 +223,7 @@
 				{
 					id: "46F1DECBD9010A8F"
 					type: "xp_levels"
-					xp_levels: 3
+					xp_levels: 6
 				}
 			]
 			tasks: [{
@@ -344,7 +352,7 @@
 			id: "1D3C25E3AD7DD8FE"
 			rewards: [
 				{
-					count: 2
+					count: 6
 					id: "7B80E22A48CED395"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -352,7 +360,7 @@
 				{
 					id: "6D927300DE59F556"
 					type: "xp_levels"
-					xp_levels: 2
+					xp_levels: 6
 				}
 			]
 			tasks: [{
@@ -370,7 +378,7 @@
 			id: "01963A46D6B3BBEC"
 			rewards: [
 				{
-					count: 2
+					count: 6
 					id: "2933DC0AEABEE07E"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -422,7 +430,7 @@
 			id: "51F60401E7B51406"
 			rewards: [
 				{
-					count: 2
+					count: 6
 					id: "08703DD58491194B"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -448,7 +456,7 @@
 			id: "0C04C25868F68409"
 			rewards: [
 				{
-					count: 2
+					count: 6
 					id: "78E39D2C0FC873E7"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -474,7 +482,7 @@
 			id: "45B88766E71FEA1B"
 			rewards: [
 				{
-					count: 4
+					count: 6
 					id: "57ED3E13B09FFF4D"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -500,7 +508,7 @@
 			id: "5B3FE694E8961F1E"
 			rewards: [
 				{
-					count: 2
+					count: 6
 					id: "2CE22A8C1DBB5AA9"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -610,7 +618,7 @@
 			id: "6041086E4504E177"
 			rewards: [
 				{
-					count: 4
+					count: 6
 					id: "6FBBACA7DA66F031"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -662,7 +670,7 @@
 			id: "65B32C458B7F25C1"
 			rewards: [
 				{
-					count: 3
+					count: 6
 					id: "3A78EF86C331FFE7"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -850,7 +858,7 @@
 			id: "1B7D9EAF0EADDEA9"
 			rewards: [
 				{
-					count: 12
+					count: 15
 					id: "6A40E9C19F433F4A"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -858,7 +866,7 @@
 				{
 					id: "6C8B31B3ED3139AB"
 					type: "xp_levels"
-					xp_levels: 10
+					xp_levels: 12
 				}
 			]
 			tasks: [{
@@ -876,7 +884,7 @@
 			id: "22119FCEF8ADA5D1"
 			rewards: [
 				{
-					count: 4
+					count: 10
 					id: "09F8FF3AC790D9D1"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -902,7 +910,7 @@
 			id: "1DF18F2C396F4BE2"
 			rewards: [
 				{
-					count: 4
+					count: 10
 					id: "15D6E1939D0C7256"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -928,7 +936,7 @@
 			id: "3D92630C03B13603"
 			rewards: [
 				{
-					count: 4
+					count: 10
 					id: "0BBBD4CD67BD2F70"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -954,7 +962,7 @@
 			id: "6E063C1F860C564D"
 			rewards: [
 				{
-					count: 4
+					count: 10
 					id: "5BBB22A3A818F3A2"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -980,7 +988,7 @@
 			id: "5CC8F42131A66529"
 			rewards: [
 				{
-					count: 4
+					count: 10
 					id: "5EC2C45CBCB90097"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -1032,7 +1040,7 @@
 			id: "7F0794C760ACEF38"
 			rewards: [
 				{
-					count: 10
+					count: 15
 					id: "652A2E3F80CA0EF0"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -1058,7 +1066,7 @@
 			id: "5295B29D209342AA"
 			rewards: [
 				{
-					count: 10
+					count: 15
 					id: "1A041372F3AE170D"
 					item: "dedsafio3:dedita"
 					type: "item"
@@ -1084,7 +1092,7 @@
 			id: "1232A9937CDB93D8"
 			rewards: [
 				{
-					count: 10
+					count: 20
 					id: "3873A42ECBCB8201"
 					item: "dedsafio3:dedita"
 					type: "item"

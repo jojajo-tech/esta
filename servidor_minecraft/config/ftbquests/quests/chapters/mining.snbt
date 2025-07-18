@@ -1078,12 +1078,255 @@
 		}
 		{
 			id: "4D2A3918807A69D2"
+			rewards: [
+				{
+					count: 8
+					id: "7623D95E7A40F208"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "65B762875927EB2B"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
 			tasks: [{
 				id: "2CE39C0D816BA8A5"
 				item: "spartan_materials:tin_block"
 				type: "item"
 			}]
 			x: -1.5d
+			y: 4.0d
+		}
+		{
+			id: "4A0B4FEBD12A7790"
+			rewards: [
+				{
+					count: 8
+					id: "5D7352AD07A66D7B"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "41649C7EEA088436"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				id: "5759608F2FA2C69F"
+				item: "spartan_materials:bronze_block"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			id: "5D824886A9D9FF50"
+			rewards: [
+				{
+					count: 8
+					id: "1BF8011770491EEA"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "7AA157190357B131"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				id: "0D831D7CF28EBD1A"
+				item: "spartan_materials:steel_block"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			id: "06B6EEA466B07E55"
+			rewards: [
+				{
+					count: 8
+					id: "069C30DAD58D4A7F"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "344FD7D05BED10B4"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				id: "4869A9E970CC2883"
+				item: "iceandfire:silver_block"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			id: "575DE8C38410F666"
+			rewards: [
+				{
+					count: 8
+					id: "740E35AFD43F3919"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "204A0AF479468085"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				id: "102FCB0912A541AE"
+				item: "spartan_materials:electrum_block"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			id: "398F535CF9790BAF"
+			rewards: [
+				{
+					count: 8
+					id: "5657147843B4A2BE"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "316E51E118E1F8CC"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				id: "1090CE5DCE49ABF4"
+				item: "spartan_materials:lead_block"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			id: "65D7933903597CC2"
+			rewards: [
+				{
+					count: 8
+					id: "3150856C2E1A1625"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "7212AB4ABCDE04D8"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				id: "1D9DDF81D14AF527"
+				item: "spartan_materials:nickel_block"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			id: "258F3553C77C3719"
+			rewards: [
+				{
+					count: 8
+					id: "4A4D039A78CCE0C8"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1FC8D56867E4A229"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				id: "1BAABD03CD5AAC29"
+				item: "spartan_materials:invar_block"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			id: "34C6708E04A483C1"
+			rewards: [
+				{
+					count: 8
+					id: "52A4618DDB56908C"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "605A1849A8AFBF28"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				id: "40875E908AA30954"
+				item: "spartan_materials:constantan_block"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			id: "5946363DE3103AA7"
+			rewards: [
+				{
+					count: 8
+					id: "4A635775536FA4B6"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "720D0E98B94265CD"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				id: "7414FA1BC41D2D88"
+				item: "spartan_materials:platinum_block"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			id: "7855819A25F2F748"
+			rewards: [
+				{
+					count: 8
+					id: "76C39C98FF8C81C3"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "2D21FBEEEB7520EC"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				id: "6FAA8CA31BCCC1C2"
+				item: "spartan_materials:aluminum_block"
+				type: "item"
+			}]
+			x: 8.5d
 			y: 4.0d
 		}
 	]

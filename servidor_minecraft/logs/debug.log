@@ -7475,3 +7475,11 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Jul2025 04:07:16.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jul2025 04:12:16.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 04:12:16.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:17:16.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:17:16.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:17:56.060] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Received invalid packet from /127.0.0.1:47400
+[18Jul2025 04:22:16.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:22:16.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:26:28.618] [Server thread/INFO] [Easy NPC/]: Opening menu 7bea766d-c009-4efe-8faa-95ecb89d2fad for npc fb24ba04-1d6a-4229-aa8c-e8731753045f and player ServerPlayer['ServerZero'/189, l='ServerLevel[world]', x=-64.24, y=64.00, z=12.57] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[18Jul2025 04:27:16.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:27:16.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
