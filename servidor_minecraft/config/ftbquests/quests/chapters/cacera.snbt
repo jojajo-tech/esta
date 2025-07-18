@@ -638,12 +638,19 @@
 		{
 			can_repeat: true
 			id: "1B7D9EAF0EADDEA9"
-			rewards: [{
-				count: 12
-				id: "6A40E9C19F433F4A"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 12
+					id: "6A40E9C19F433F4A"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6C8B31B3ED3139AB"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
 			tasks: [{
 				entity: "minecraft:player"
 				icon: "minecraft:player_head"
@@ -657,12 +664,19 @@
 		{
 			can_repeat: true
 			id: "22119FCEF8ADA5D1"
-			rewards: [{
-				count: 4
-				id: "09F8FF3AC790D9D1"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "09F8FF3AC790D9D1"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "078218516DF8E3DA"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				entity: "minecraft:pig"
 				icon: "minecraft:porkchop"
@@ -676,12 +690,19 @@
 		{
 			can_repeat: true
 			id: "1DF18F2C396F4BE2"
-			rewards: [{
-				count: 4
-				id: "15D6E1939D0C7256"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "15D6E1939D0C7256"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6A9BE3B1C7BAE108"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				entity: "minecraft:mooshroom"
 				icon: "minecraft:red_mushroom"
@@ -695,12 +716,19 @@
 		{
 			can_repeat: true
 			id: "3D92630C03B13603"
-			rewards: [{
-				count: 4
-				id: "0BBBD4CD67BD2F70"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "0BBBD4CD67BD2F70"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "52C3C31AD890BDFB"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				entity: "minecraft:sheep"
 				icon: "minecraft:white_wool"
@@ -714,12 +742,19 @@
 		{
 			can_repeat: true
 			id: "6E063C1F860C564D"
-			rewards: [{
-				count: 4
-				id: "5BBB22A3A818F3A2"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "5BBB22A3A818F3A2"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "4F9AF61A468F3458"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				entity: "minecraft:chicken"
 				icon: "minecraft:cooked_chicken"
@@ -733,12 +768,19 @@
 		{
 			can_repeat: true
 			id: "5CC8F42131A66529"
-			rewards: [{
-				count: 4
-				id: "5EC2C45CBCB90097"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "5EC2C45CBCB90097"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "00B1A43C9FEB54B2"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				entity: "minecraft:cow"
 				icon: "minecraft:cooked_beef"
@@ -752,12 +794,19 @@
 		{
 			can_repeat: true
 			id: "1B0D2DECB0C29960"
-			rewards: [{
-				count: 3
-				id: "76311F11BF829E65"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 64
+					id: "76311F11BF829E65"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "2917E0050DBCA485"
+					type: "xp_levels"
+					xp_levels: 32
+				}
+			]
 			tasks: [{
 				entity: "grotesque_steve:grotesquesteve"
 				icon: "grotesque_steve:orangeshirt"
@@ -765,18 +814,25 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -5.0d
-			y: 0.0d
+			x: -16.5d
+			y: -1.5d
 		}
 		{
 			can_repeat: true
 			id: "7F0794C760ACEF38"
-			rewards: [{
-				count: 10
-				id: "652A2E3F80CA0EF0"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "652A2E3F80CA0EF0"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "0890B505CCB78749"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
 			tasks: [{
 				entity: "iceandfire:ice_dragon"
 				icon: "iceandfire:ice_dragon_blood"
@@ -785,17 +841,24 @@
 				value: 1L
 			}]
 			x: -5.0d
-			y: 2.0d
+			y: 0.0d
 		}
 		{
 			can_repeat: true
 			id: "5295B29D209342AA"
-			rewards: [{
-				count: 10
-				id: "1A041372F3AE170D"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1A041372F3AE170D"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5C48925072D7348F"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
 			tasks: [{
 				entity: "iceandfire:fire_dragon"
 				icon: "iceandfire:fire_dragon_blood"
@@ -803,8 +866,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -6.0d
-			y: 2.0d
+			x: -5.0d
+			y: 1.0d
 		}
 		{
 			can_repeat: true
@@ -819,7 +882,7 @@
 				{
 					id: "68F8B65D9EF4648A"
 					type: "xp_levels"
-					xp_levels: 5
+					xp_levels: 10
 				}
 			]
 			tasks: [{
@@ -829,8 +892,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -7.0d
-			y: 2.0d
+			x: -6.0d
+			y: 0.5d
 		}
 	]
 	title: "Cacería"

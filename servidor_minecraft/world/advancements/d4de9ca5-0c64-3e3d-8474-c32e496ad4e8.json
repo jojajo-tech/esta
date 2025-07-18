@@ -3455,6 +3455,12 @@
     },
     "done": true
   },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-07-18 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-07-18 02:26:02 +0000"
@@ -3563,6 +3569,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-18 03:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-07-18 03:08:56 +0000"
@@ -3608,6 +3620,12 @@
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2025-07-18 02:22:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-07-18 03:18:57 +0000"
     },
     "done": true
   },
@@ -3746,6 +3764,12 @@
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_feather": "2025-07-18 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_smithing": {
+    "criteria": {
+      "has_netherite": "2025-07-18 03:19:09 +0000"
     },
     "done": true
   },
