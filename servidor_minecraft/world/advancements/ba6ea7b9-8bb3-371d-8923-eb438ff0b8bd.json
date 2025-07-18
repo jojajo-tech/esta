@@ -4344,7 +4344,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-07-18 22:18:03 +0000"
+      "sweet_berries": "2025-07-18 22:18:03 +0000",
+      "wheat": "2025-07-18 23:27:33 +0000"
     },
     "done": false
   },
@@ -4693,6 +4694,12 @@
   "mca:recipes/decorations/lime_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-18 21:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-18 23:27:33 +0000"
     },
     "done": true
   },

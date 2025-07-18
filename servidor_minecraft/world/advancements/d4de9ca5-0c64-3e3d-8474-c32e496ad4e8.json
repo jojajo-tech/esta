@@ -4153,6 +4153,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-07-18 23:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-07-18 22:52:29 +0000"
@@ -4168,6 +4174,12 @@
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2025-07-18 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-07-18 23:23:34 +0000"
     },
     "done": true
   },
@@ -4261,9 +4273,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-07-18 23:23:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-07-18 23:23:34 +0000"
+    },
+    "done": true
+  },
   "packedup:iron_or_copper_backpack": {
     "criteria": {
       "has_copper_backpack": "2025-07-18 23:19:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-07-18 23:23:34 +0000"
     },
     "done": true
   },
@@ -4282,6 +4312,12 @@
   "illagerinvasion:recipes/misc/hallowed_gem": {
     "criteria": {
       "has_unusual_dust_and_illusionary_dust": "2025-07-18 21:46:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-07-18 23:23:34 +0000"
     },
     "done": true
   },
@@ -4339,6 +4375,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-07-18 23:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
@@ -4390,6 +4432,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-07-18 22:14:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-07-18 23:23:34 +0000"
     },
     "done": true
   },
@@ -4459,6 +4507,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-07-18 23:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-07-18 22:29:20 +0000"
@@ -4519,6 +4573,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-07-18 23:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-07-18 22:09:13 +0000"
@@ -4534,6 +4594,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-07-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-07-18 23:23:34 +0000"
     },
     "done": true
   },
