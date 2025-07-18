@@ -749,6 +749,63 @@
 			x: -6.0d
 			y: -3.5d
 		}
+		{
+			can_repeat: true
+			id: "1B0D2DECB0C29960"
+			rewards: [{
+				count: 3
+				id: "76311F11BF829E65"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "grotesque_steve:grotesquesteve"
+				icon: "grotesque_steve:orangeshirt"
+				id: "4AED8E389405D3BC"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "7F0794C760ACEF38"
+			rewards: [{
+				count: 10
+				id: "652A2E3F80CA0EF0"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "iceandfire:ice_dragon"
+				icon: "iceandfire:ice_dragon_blood"
+				id: "0126758F74E9C13F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			id: "5295B29D209342AA"
+			rewards: [{
+				count: 10
+				id: "1A041372F3AE170D"
+				item: "dedsafio3:dedita"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "iceandfire:fire_dragon"
+				icon: "iceandfire:fire_dragon_blood"
+				id: "06FB8B1CB0D87042"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 2.0d
+		}
 	]
 	title: "Cacería"
 }

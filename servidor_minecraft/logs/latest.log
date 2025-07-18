@@ -1109,3 +1109,17 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Jul2025 02:48:45.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> peru escala ta quedando bien :)
 [18Jul2025 02:50:37.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=950, y=66, z=848} BlockPos{x=949, y=66, z=849}
 [18Jul2025 02:51:38.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> gustambo
+[18Jul2025 02:52:26.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CUANDO PIENSA EN AYUDRME
+[18Jul2025 02:53:41.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[18Jul2025 02:54:16.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TMR
+[18Jul2025 02:56:38.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ME ESTA QUEDANDO JOY MOQUEGUA
+[18Jul2025 02:58:58.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> me voy a dormir
+[18Jul2025 02:59:03.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> nos vemos mañana?
+[18Jul2025 02:59:54.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[18Jul2025 02:59:57.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no lo se
+[18Jul2025 03:00:04.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> juega mas pis
+[18Jul2025 03:00:13.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO PUEDO TENGO QUE DORMIR
+[18Jul2025 03:00:17.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CHAU
+[18Jul2025 03:00:19.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[18Jul2025 03:00:19.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[18Jul2025 03:00:19.426] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover

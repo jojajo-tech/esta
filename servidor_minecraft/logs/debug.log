@@ -8533,3 +8533,36 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [18Jul2025 02:51:38.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 02:51:38.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jul2025 02:51:38.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> gustambo
+[18Jul2025 02:52:26.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CUANDO PIENSA EN AYUDRME
+[18Jul2025 02:53:41.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[18Jul2025 02:54:16.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TMR
+[18Jul2025 02:56:38.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ME ESTA QUEDANDO JOY MOQUEGUA
+[18Jul2025 02:56:38.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 02:56:38.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 02:58:31.815] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 02:58:32.816] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jul2025 02:58:58.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> me voy a dormir
+[18Jul2025 02:59:03.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> nos vemos mañana?
+[18Jul2025 02:59:08.998] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 02:59:08.998] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 02:59:11.000] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 02:59:12.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 02:59:12.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 02:59:16.897] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 02:59:16.898] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 02:59:19.546] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 02:59:19.547] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 02:59:21.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jul2025 02:59:21.951] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Jul2025 02:59:54.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[18Jul2025 02:59:57.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no lo se
+[18Jul2025 03:00:04.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> juega mas pis
+[18Jul2025 03:00:13.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO PUEDO TENGO QUE DORMIR
+[18Jul2025 03:00:17.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CHAU
+[18Jul2025 03:00:19.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[18Jul2025 03:00:19.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[18Jul2025 03:00:19.425] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of joaocover
+[18Jul2025 03:00:19.426] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[18Jul2025 03:00:19.473] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd does not have a secret
+[18Jul2025 03:01:38.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 03:01:38.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
