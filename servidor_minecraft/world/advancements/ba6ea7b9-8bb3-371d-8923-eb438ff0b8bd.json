@@ -4246,9 +4246,45 @@
     },
     "done": true
   },
+  "spartanfire:recipes/flamed_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-07-18 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_pike": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_halberd": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_longsword": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
     },
     "done": true
   },
@@ -4276,6 +4312,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/flamed_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-18 21:45:27 +0000"
@@ -4285,6 +4327,12 @@
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2025-07-18 22:27:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_warhammer": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
     },
     "done": true
   },
@@ -4330,6 +4378,24 @@
     },
     "done": true
   },
+  "spartanfire:recipes/flamed_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 23:01:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 23:01:54 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-18 21:45:27 +0000"
@@ -4348,15 +4414,63 @@
     },
     "done": true
   },
+  "spartanfire:recipes/flamed_dragon_bone_spear": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_bolt": {
     "criteria": {
       "has_feather": "2025-07-18 22:27:03 +0000"
     },
     "done": true
   },
+  "spartanfire:recipes/flamed_dragon_bone_boomerang": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-07-18 22:12:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 23:01:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 23:01:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_saber": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_katana": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_lance": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
     },
     "done": true
   },
@@ -4390,6 +4504,18 @@
     },
     "done": true
   },
+  "spartanfire:recipes/flamed_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_javelin": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-18 22:05:11 +0000"
@@ -4402,9 +4528,21 @@
     },
     "done": true
   },
+  "spartanfire:recipes/flamed_dragon_bone_dagger": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_bolt": {
     "criteria": {
       "has_feather": "2025-07-18 22:27:03 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_rapier": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
     },
     "done": true
   },
@@ -4423,6 +4561,12 @@
   "toughasnails:recipes/food/sweet_berry_juice": {
     "criteria": {
       "has_sweet_berries": "2025-07-18 22:12:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-07-18 23:01:54 +0000"
     },
     "done": true
   },
@@ -4450,6 +4594,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/flamed_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-07-18 21:38:38 +0000"
@@ -4459,6 +4609,24 @@
   "mca:recipes/decorations/brown_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-18 21:45:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_scythe": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_glaive": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_longbow": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
     },
     "done": true
   },
@@ -4483,6 +4651,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-18 21:45:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_greatsword": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
     },
     "done": true
   },
@@ -4513,6 +4687,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-18 21:29:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-07-18 23:01:17 +0000"
     },
     "done": true
   },

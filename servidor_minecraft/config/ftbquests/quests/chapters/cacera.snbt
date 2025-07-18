@@ -1122,7 +1122,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				entity: "mca:male_zombie_villager"
+				entity: "mca:male_villager"
 				icon: "scalinghealth:power_crystal"
 				id: "4989BBD64FCE1A99"
 				type: "kill"
