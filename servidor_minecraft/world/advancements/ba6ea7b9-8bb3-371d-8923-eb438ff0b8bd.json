@@ -4348,6 +4348,12 @@
     },
     "done": false
   },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-07-18 23:11:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-07-18 21:45:27 +0000"
@@ -4567,6 +4573,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2025-07-18 23:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-18 23:11:28 +0000"
     },
     "done": true
   },
