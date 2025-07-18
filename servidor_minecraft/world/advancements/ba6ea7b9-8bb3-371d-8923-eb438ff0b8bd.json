@@ -4276,6 +4276,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-18 23:42:39 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/flamed_dragon_bone_halberd": {
     "criteria": {
       "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
@@ -4628,6 +4634,12 @@
   "spartanfire:recipes/flamed_dragon_bone_scythe": {
     "criteria": {
       "has_fire_dragon_blood": "2025-07-18 23:01:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-18 23:42:34 +0000"
     },
     "done": true
   },
