@@ -10,12 +10,19 @@
 		{
 			can_repeat: false
 			id: "2038B96219FB8A3C"
-			rewards: [{
-				count: 2
-				id: "72ACC1341F42B445"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "72ACC1341F42B445"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "2397493CD2190E08"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				id: "77518D727F07B0C2"
 				item: "minecraft:copper_ingot"
@@ -27,12 +34,19 @@
 		}
 		{
 			id: "552D3AB21B5C07F2"
-			rewards: [{
-				count: 2
-				id: "5DF95FC19969A936"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "5DF95FC19969A936"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "3CB34FBB731CEA1F"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				id: "153002BA850E164E"
 				item: "minecraft:iron_ingot"
@@ -45,12 +59,19 @@
 		{
 			can_repeat: false
 			id: "6A6DFAC4754FAD37"
-			rewards: [{
-				count: 2
-				id: "79F4D9B2F4C8D0C6"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "79F4D9B2F4C8D0C6"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "4F53E30A71FC5029"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				id: "07C0546117206CE9"
 				item: "minecraft:coal"
@@ -62,12 +83,19 @@
 		{
 			can_repeat: false
 			id: "47BEA13032A1F4EE"
-			rewards: [{
-				count: 2
-				id: "1536AD45BA16CBAA"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "1536AD45BA16CBAA"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6E5F11F98C2EB465"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				id: "4BC4DDB7EA0E53CE"
 				item: "minecraft:gold_ingot"
@@ -79,12 +107,19 @@
 		{
 			can_repeat: false
 			id: "23C163C0A113FD73"
-			rewards: [{
-				count: 2
-				id: "4827EEACF9172356"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "4827EEACF9172356"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "4BEBBEA2F07DEB6F"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				id: "0C46A232F727CECB"
 				item: "minecraft:diamond"
@@ -96,12 +131,19 @@
 		{
 			can_repeat: false
 			id: "5B90C75433206256"
-			rewards: [{
-				count: 2
-				id: "0C6F4292BB875A5B"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "0C6F4292BB875A5B"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "70BD7C6D141EECE8"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				id: "183989B86C0A2291"
 				item: "minecraft:netherite_ingot"
@@ -113,12 +155,19 @@
 		{
 			can_repeat: false
 			id: "6A5053D73086CB64"
-			rewards: [{
-				count: 2
-				id: "1713C267213FB56E"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "1713C267213FB56E"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "0211D02B1D89795F"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				id: "0C19E82E4E812DBE"
 				item: "minecraft:coal_ore"
@@ -130,12 +179,19 @@
 		{
 			can_repeat: false
 			id: "17151B9AF6CC8375"
-			rewards: [{
-				count: 2
-				id: "2C40A955E69D9F76"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "2C40A955E69D9F76"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "4FAC13578665F8F0"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				id: "53BEB5345A62C527"
 				item: "minecraft:copper_ore"
@@ -147,12 +203,19 @@
 		{
 			can_repeat: false
 			id: "74FE159161FE9E81"
-			rewards: [{
-				count: 2
-				id: "2264034680B4C096"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "2264034680B4C096"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6C8B55A78B3EC7EA"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				id: "3B1267C33473F061"
 				item: "minecraft:iron_ore"
@@ -164,12 +227,19 @@
 		{
 			can_repeat: false
 			id: "0B0904111655C1FE"
-			rewards: [{
-				count: 2
-				id: "49E26FFCE98FE39A"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "49E26FFCE98FE39A"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "17EA264E2F247443"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				id: "29DCE13000A599D2"
 				item: "minecraft:gold_ore"
@@ -177,6 +247,282 @@
 			}]
 			x: 1.5d
 			y: -1.5d
+		}
+		{
+			id: "78C0AF8D1B6909DD"
+			rewards: [
+				{
+					count: 2
+					id: "5091DE9FD7B55F99"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6C2D0F5243FD2F63"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				id: "02B9FC7C9746E10C"
+				item: "minecraft:diamond_ore"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			id: "74EA031F74F838EB"
+			rewards: [
+				{
+					count: 2
+					id: "7F9AC0BF095FE576"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "04EFDFAFFFA198D5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				id: "59089144FD7D98D2"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			id: "0DF721FE7D8828D5"
+			rewards: [
+				{
+					count: 128
+					id: "588667CECCE3B83B"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "64517CBEBD10C926"
+					type: "xp"
+					xp: 128
+				}
+			]
+			tasks: [{
+				id: "3EEA6D5B4C3DD84E"
+				item: "minecraft:deepslate_coal_ore"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			id: "74814347BA3E88DE"
+			rewards: [
+				{
+					count: 4
+					id: "5B2595433E7A44B2"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "7F2F461A4FFCD40F"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				id: "752D152A3CA6E19D"
+				item: "minecraft:deepslate_copper_ore"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "64BCF6E6D9CA09E4"
+			rewards: [
+				{
+					count: 4
+					id: "3FA2725A5373E007"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "19059F435B25CF9A"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				id: "70F45568A23A72B8"
+				item: "minecraft:deepslate_iron_ore"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			id: "18F08158C02864CD"
+			rewards: [
+				{
+					count: 4
+					id: "1E4451897E47351A"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "0C760939E0D54D25"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				id: "36F4F5B3AD3D0F09"
+				item: "minecraft:deepslate_gold_ore"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			id: "3EA1143835F13294"
+			rewards: [
+				{
+					count: 4
+					id: "2219D7E1BD8E13AF"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "7CA363CC1C11A7AD"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				id: "3768193FA20CAD69"
+				item: "minecraft:deepslate_diamond_ore"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			id: "242DFE5896739F45"
+			rewards: [
+				{
+					count: 2
+					id: "63A0EEAE05B106EE"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "31F20111C805E49F"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				id: "1B39EC03403CC46C"
+				item: "minecraft:ancient_debris"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			id: "68CCD09B05FE740D"
+			rewards: [
+				{
+					count: 6
+					id: "62817345507EB354"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "4A7CCDDFAD441F7F"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				id: "2DBCD62C04C66F67"
+				item: "minecraft:coal_block"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			id: "7B784B9E2C82B274"
+			rewards: [
+				{
+					count: 6
+					id: "4507F43261F0C1F1"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "3FA95CEC33404AFF"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				id: "3436488C1091650A"
+				item: "minecraft:raw_copper_block"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			id: "42262AC2FEB39B03"
+			rewards: [
+				{
+					count: 6
+					id: "02CE456A46E07341"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "74FB5207DC8AFF38"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				id: "1123B6515392B72B"
+				item: "minecraft:raw_iron_block"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			id: "0AFF4F5BFCD42904"
+			rewards: [
+				{
+					count: 6
+					id: "49A1A6A60C42BA03"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5AEBA9CAF26E5CDE"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				id: "0D43609DA5D68A23"
+				item: "minecraft:raw_gold_block"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
 		}
 	]
 	title: "Mining"

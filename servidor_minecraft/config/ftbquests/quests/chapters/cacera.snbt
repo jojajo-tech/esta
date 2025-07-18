@@ -57,12 +57,19 @@
 		{
 			can_repeat: true
 			id: "1FBD5C7D78B8CBA2"
-			rewards: [{
-				count: 6
-				id: "7683F2D3300A933E"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 6
+					id: "7683F2D3300A933E"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5C3C11C6B78741D8"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
 			tasks: [{
 				entity: "minecraft:creeper"
 				icon: "minecraft:creeper_head"
@@ -76,12 +83,19 @@
 		{
 			can_repeat: true
 			id: "1734F14E44577251"
-			rewards: [{
-				count: 6
-				id: "42E6712ECB83D2CE"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 6
+					id: "42E6712ECB83D2CE"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "773A327C52D7D652"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
 			tasks: [{
 				entity: "minecraft:enderman"
 				icon: "spartanweaponry:enderman_head"
@@ -217,12 +231,19 @@
 		{
 			can_repeat: true
 			id: "54E25C1674BE3524"
-			rewards: [{
-				count: 6
-				id: "6EF2A934424A7080"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 6
+					id: "6EF2A934424A7080"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "129A457C96D4C312"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
 			tasks: [{
 				entity: "minecraft:witch"
 				icon: "spartanweaponry:witch_head"
@@ -347,12 +368,19 @@
 		{
 			can_repeat: true
 			id: "01963A46D6B3BBEC"
-			rewards: [{
-				count: 2
-				id: "2933DC0AEABEE07E"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "2933DC0AEABEE07E"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "55E0F639C6886C0D"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				entity: "minecraft:ravager"
 				icon: "minecraft:ravager_spawn_egg"
@@ -392,12 +420,19 @@
 		{
 			can_repeat: true
 			id: "51F60401E7B51406"
-			rewards: [{
-				count: 2
-				id: "08703DD58491194B"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "08703DD58491194B"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "63A0F14C5E080609"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				entity: "minecraft:phantom"
 				icon: "minecraft:phantom_membrane"
@@ -411,12 +446,19 @@
 		{
 			can_repeat: true
 			id: "0C04C25868F68409"
-			rewards: [{
-				count: 2
-				id: "78E39D2C0FC873E7"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "78E39D2C0FC873E7"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "3A3C21BF2898FD75"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
 			tasks: [{
 				entity: "minecraft:guardian"
 				icon: "minecraft:prismarine_shard"
@@ -430,12 +472,19 @@
 		{
 			can_repeat: true
 			id: "45B88766E71FEA1B"
-			rewards: [{
-				count: 4
-				id: "57ED3E13B09FFF4D"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "57ED3E13B09FFF4D"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "23F1DE740B1D46D3"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
 			tasks: [{
 				entity: "minecraft:elder_guardian"
 				icon: "minecraft:sponge"
@@ -585,12 +634,19 @@
 		{
 			can_repeat: true
 			id: "3D2C3F5EA1AC49F4"
-			rewards: [{
-				count: 6
-				id: "18F288563915965B"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 6
+					id: "18F288563915965B"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "31D0BA625E6B607D"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
 			tasks: [{
 				entity: "minecraft:slime"
 				icon: "minecraft:slime_ball"
@@ -604,12 +660,19 @@
 		{
 			can_repeat: true
 			id: "65B32C458B7F25C1"
-			rewards: [{
-				count: 3
-				id: "3A78EF86C331FFE7"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 3
+					id: "3A78EF86C331FFE7"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "624FD75D3012BACA"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
 			tasks: [{
 				entity: "minecraft:vex"
 				icon: {
@@ -655,31 +718,45 @@
 		{
 			can_repeat: true
 			id: "7FE0CF19A0A45237"
-			rewards: [{
-				count: 12
-				id: "72F54EF2A995039B"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 32
+					id: "72F54EF2A995039B"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "095D95469E82401C"
+					type: "xp_levels"
+					xp_levels: 32
+				}
+			]
 			tasks: [{
 				entity: "minecraft:warden"
 				icon: "minecraft:sculk_shrieker"
 				id: "60454735E91A8D00"
 				type: "kill"
-				value: 10L
+				value: 1L
 			}]
-			x: -0.5d
+			x: -2.5d
 			y: -5.5d
 		}
 		{
 			can_repeat: true
 			id: "4016CE6916F4ECE1"
-			rewards: [{
-				count: 6
-				id: "5767089FE2328858"
-				item: "dedsafio3:dedita"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 6
+					id: "5767089FE2328858"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "48AB525149231DA6"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
 			tasks: [{
 				entity: "minecraft:zoglin"
 				icon: "minecraft:zoglin_spawn_egg"
