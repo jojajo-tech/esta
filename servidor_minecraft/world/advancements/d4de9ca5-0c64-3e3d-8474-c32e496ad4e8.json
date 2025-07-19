@@ -25,6 +25,7 @@
       "minecraft:beach": "2025-07-16 23:32:49 +0000",
       "minecraft:river": "2025-07-16 21:35:07 +0000",
       "minecraft:forest": "2025-07-16 21:34:45 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-19 01:30:29 +0000",
       "minecraft:plains": "2025-07-16 21:31:10 +0000"
     },
     "done": false
@@ -469,6 +470,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-19 01:42:32 +0000",
+      "minecraft:spider": "2025-07-19 01:37:54 +0000",
+      "minecraft:phantom": "2025-07-19 01:38:46 +0000",
       "minecraft:husk": "2025-07-17 02:15:58 +0000",
       "minecraft:enderman": "2025-07-19 01:12:40 +0000",
       "minecraft:zombie": "2025-07-16 23:29:32 +0000"
@@ -520,6 +524,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2025-07-16 23:40:10 +0000",
+      "golden_carrot": "2025-07-19 01:39:30 +0000",
       "enchanted_golden_apple": "2025-07-18 03:11:16 +0000"
     },
     "done": false
@@ -4664,33 +4669,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-19 00:12:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_battle_hammer": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
     },
     "done": true
   },
-  "spartanweaponry:halberd": {
-    "criteria": {
-      "has_halberd": "2025-07-19 01:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_boomerang": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:saber": {
-    "criteria": {
-      "has_saber": "2025-07-19 01:02:25 +0000"
     },
     "done": true
   },
@@ -4712,45 +4711,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/combat/simple_pole": {
-    "criteria": {
-      "has_handle": "2025-07-19 00:59:33 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:dagger": {
-    "criteria": {
-      "has_dagger": "2025-07-19 01:01:46 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:rapier": {
-    "criteria": {
-      "has_rapier": "2025-07-19 01:02:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:spear": {
-    "criteria": {
-      "has_spear": "2025-07-19 01:02:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:throwing_knife": {
-    "criteria": {
-      "has_throwing_knife": "2025-07-19 01:07:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:greatsword": {
-    "criteria": {
-      "has_greatsword": "2025-07-19 01:02:25 +0000"
     },
     "done": true
   },
@@ -4763,12 +4726,6 @@
   "toughasnails:recipes/tools/empty_copper_canteen": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:parrying_dagger": {
-    "criteria": {
-      "has_parrying_dagger": "2025-07-19 01:02:25 +0000"
     },
     "done": true
   },
@@ -4796,27 +4753,9 @@
     },
     "done": true
   },
-  "spartanweaponry:root": {
-    "criteria": {
-      "has_handle": "2025-07-19 00:59:35 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:pike": {
-    "criteria": {
-      "has_pike": "2025-07-19 01:05:58 +0000"
-    },
-    "done": true
-  },
   "toughasnails:recipes/decorations/water_purifier": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/lapis_lazuli_basic_shield": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
     },
     "done": true
   },
@@ -4826,27 +4765,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:katana": {
-    "criteria": {
-      "has_katana": "2025-07-19 01:02:25 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-07-19 00:10:26 +0000"
     },
     "done": true
   },
@@ -4877,24 +4798,6 @@
   "spartanweaponry:recipes/copper_javelin": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-07-19 00:56:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-07-19 01:09:57 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:warhammer": {
-    "criteria": {
-      "has_warhammer": "2025-07-19 01:02:25 +0000"
     },
     "done": true
   },
@@ -4934,30 +4837,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2025-07-19 00:12:26 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:longbow": {
-    "criteria": {
-      "has_longbow": "2025-07-19 01:06:05 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:battle_hammer": {
-    "criteria": {
-      "has_battle_hammer": "2025-07-19 01:02:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:lance": {
-    "criteria": {
-      "has_lance": "2025-07-19 01:05:59 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/copper_longbow": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
@@ -4967,12 +4846,6 @@
   "spartanweaponry:recipes/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/lapis": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
     },
     "done": true
   },
@@ -5000,9 +4873,147 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-19 00:56:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/simple_pole": {
+    "criteria": {
+      "has_handle": "2025-07-19 00:59:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-07-19 00:59:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:dagger": {
+    "criteria": {
+      "has_dagger": "2025-07-19 01:01:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2025-07-19 01:02:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2025-07-19 01:02:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2025-07-19 01:02:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-07-19 01:02:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-07-19 01:02:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:parrying_dagger": {
+    "criteria": {
+      "has_parrying_dagger": "2025-07-19 01:02:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-07-19 01:02:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-07-19 01:02:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-07-19 01:02:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:pike": {
+    "criteria": {
+      "has_pike": "2025-07-19 01:05:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "has_lance": "2025-07-19 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-07-19 01:06:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:throwing_knife": {
+    "criteria": {
+      "has_throwing_knife": "2025-07-19 01:07:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:boomerang": {
     "criteria": {
       "has_boomerang": "2025-07-19 01:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-07-19 01:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-07-19 01:34:58 +0000"
     },
     "done": true
   },

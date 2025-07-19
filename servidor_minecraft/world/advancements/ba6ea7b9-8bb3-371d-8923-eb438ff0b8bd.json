@@ -892,6 +892,7 @@
       "mutton": "2025-07-17 01:04:43 +0000",
       "bread": "2025-07-13 23:22:25 +0000",
       "rotten_flesh": "2025-07-13 23:26:24 +0000",
+      "salmon": "2025-07-19 01:29:34 +0000",
       "cooked_chicken": "2025-07-12 21:02:55 +0000",
       "cod": "2025-07-12 21:12:30 +0000",
       "carrot": "2025-07-18 02:09:28 +0000"
@@ -4736,6 +4737,12 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-07-18 23:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-19 01:39:47 +0000"
     },
     "done": true
   },
