@@ -4676,6 +4676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_boomerang": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
@@ -4808,9 +4814,21 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
     },
     "done": true
   },
@@ -4949,6 +4967,12 @@
   "spartanweaponry:recipes/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-19 01:22:10 +0000"
     },
     "done": true
   },
