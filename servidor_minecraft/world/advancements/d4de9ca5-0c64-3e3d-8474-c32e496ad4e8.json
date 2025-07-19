@@ -4663,5 +4663,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-19 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-19 00:12:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
