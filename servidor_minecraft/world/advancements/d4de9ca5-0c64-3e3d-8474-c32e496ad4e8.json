@@ -470,6 +470,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2025-07-17 02:15:58 +0000",
+      "minecraft:enderman": "2025-07-19 01:12:40 +0000",
       "minecraft:zombie": "2025-07-16 23:29:32 +0000"
     },
     "done": false
@@ -4729,6 +4730,12 @@
     },
     "done": true
   },
+  "spartanweaponry:throwing_knife": {
+    "criteria": {
+      "has_throwing_knife": "2025-07-19 01:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 00:54:33 +0000"
@@ -4786,6 +4793,12 @@
   "spartanweaponry:root": {
     "criteria": {
       "has_handle": "2025-07-19 00:59:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:pike": {
+    "criteria": {
+      "has_pike": "2025-07-19 01:05:58 +0000"
     },
     "done": true
   },
@@ -4855,6 +4868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-07-19 01:09:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:warhammer": {
     "criteria": {
       "has_warhammer": "2025-07-19 01:02:25 +0000"
@@ -4903,9 +4922,21 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-07-19 01:06:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:battle_hammer": {
     "criteria": {
       "has_battle_hammer": "2025-07-19 01:02:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "has_lance": "2025-07-19 01:05:59 +0000"
     },
     "done": true
   },
@@ -4942,6 +4973,12 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-07-19 00:54:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2025-07-19 01:07:35 +0000"
     },
     "done": true
   },
