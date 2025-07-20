@@ -875,3 +875,14 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Jul2025 16:20:25.223] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8
 [20Jul2025 16:20:27.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8
 [20Jul2025 16:20:27.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8) successfully connected to voice chat
+[20Jul2025 16:35:41.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero lost connection: Disconnected
+[20Jul2025 16:35:41.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero left the game
+[20Jul2025 16:35:41.096] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ServerZero
+[20Jul2025 16:35:45.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ServerZero[/127.53.118.236:39289] logged in with entity id 12335 at (-58.89671163188365, 63.0, 15.027569817978813)
+[20Jul2025 16:35:45.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero joined the game
+[20Jul2025 16:35:45.964] [Server thread/INFO] [Jade/]: Syncing config to ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8)
+[20Jul2025 16:35:46.368] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ServerZero (18)
+[20Jul2025 16:35:46.368] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ServerZero
+[20Jul2025 16:35:48.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8
+[20Jul2025 16:35:50.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8
+[20Jul2025 16:35:50.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8) successfully connected to voice chat
