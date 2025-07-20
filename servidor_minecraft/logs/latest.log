@@ -854,3 +854,4 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Jul2025 16:04:24.724] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [20Jul2025 16:04:24.724] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [20Jul2025 16:04:33.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported BabyChoclo to -57.160000, 63.000000, 13.220000]
+[20Jul2025 16:09:32.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Gave 640 [Relic Experience Bottle] to ServerZero]
