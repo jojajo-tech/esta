@@ -1032,7 +1032,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -16.5d
+			x: -19.0d
 			y: -1.5d
 		}
 		{
@@ -1128,8 +1128,207 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -6.0d
+			x: -18.0d
 			y: -1.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1
+				id: "iceandfire:cyclops_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7DBA0C2D088D2721"
+			rewards: [
+				{
+					count: 20
+					id: "1A5B37481A1D1CD3"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1359ABCAC6F70528"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:cyclops"
+				id: "6087CBA3C20FA13A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			id: "0A4760EB66DF6BD3"
+			rewards: [
+				{
+					count: 20
+					id: "4F2D691348561021"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "116161D1587DC3C2"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:gorgon"
+				icon: {
+					Count: 1
+					id: "iceandfire:gorgon_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "12BCA07C6D6B3263"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			id: "1AC7C4033AE78F54"
+			rewards: [
+				{
+					count: 20
+					id: "7C7DB74412C4EB6A"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "476BFBCAF7C6EDD7"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:sea_serpent"
+				icon: "iceandfire:seaserpent_skull"
+				id: "48866C756AC14AA5"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			id: "15960931D8D63F87"
+			rewards: [
+				{
+					count: 20
+					id: "3C29227CC37A3DBE"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "086F92D0729FA206"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:ghost"
+				icon: "iceandfire:ectoplasm"
+				id: "7FD44EB881EE6FEE"
+				type: "kill"
+				value: 10L
+			}]
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "300A0D5443FF4442"
+			rewards: [
+				{
+					count: 20
+					id: "6BE7E6A348C98CB1"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6BD7C9E4293E7074"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:hydra"
+				icon: "iceandfire:hydra_skull"
+				id: "4F4063E034F857FC"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "497C34358353441A"
+			rewards: [
+				{
+					count: 20
+					id: "0A88AA2750375CD6"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5DDCD0DEF28FCDFA"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:siren"
+				icon: {
+					Count: 1
+					id: "iceandfire:siren_flute"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "490EDFB3CDC36F16"
+				type: "kill"
+				value: 3L
+			}]
+			x: -7.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			id: "7060C2E1C419BB64"
+			rewards: [
+				{
+					count: 20
+					id: "64BB5D5CA5C1EEF0"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1B818C2811FE508C"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				entity: "iceandfire:troll"
+				icon: "iceandfire:troll_skull"
+				id: "2ED8CD9390E462CC"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 4.5d
 		}
 	]
 	title: "Cacería"
