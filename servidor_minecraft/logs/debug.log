@@ -8008,3 +8008,61 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Jul2025 21:33:33.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ven
 [20Jul2025 21:33:36.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> lo reconoces?
 [20Jul2025 21:33:45.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ven toque pis
+[20Jul2025 21:33:51.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> tegngo full lag, no me alejare de aqui xd
+[20Jul2025 21:34:02.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> mi item en la mano?
+[20Jul2025 21:34:07.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> lo reconoces?
+[20Jul2025 21:34:15.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> haz un ramo de flores cojuda
+[20Jul2025 21:34:26.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 21:34:26.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 21:34:31.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> bloqueador??
+[20Jul2025 21:34:33.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> dame 25 flores y te doy uno
+[20Jul2025 21:34:38.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no cojuda mira
+[20Jul2025 21:34:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> digo te doy 5
+[20Jul2025 21:34:47.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> miras
+[20Jul2025 21:35:04.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> k???
+[20Jul2025 21:35:10.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> :>
+[20Jul2025 21:35:12.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> al frente tuyo pe
+[20Jul2025 21:35:15.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[20Jul2025 21:35:44.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> q tal?
+[20Jul2025 21:35:51.549] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:36:11.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> a la m tengo full lag xd
+[20Jul2025 21:36:13.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> bye
+[20Jul2025 21:36:18.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[20Jul2025 21:36:18.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[20Jul2025 21:36:18.033] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Anzu_ara
+[20Jul2025 21:36:18.034] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[20Jul2025 21:36:18.064] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Anzu_ara'/746, l='ServerLevel[world]', x=-1067.11, y=115.00, z=-741.98, removed=UNLOADED_WITH_PLAYER]
+[20Jul2025 21:36:18.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[20Jul2025 21:37:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement ['Til Death Do Us Part]
+[20Jul2025 21:38:50.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement [Next Generation]
+[20Jul2025 21:39:26.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 21:39:26.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 21:39:35.500] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jul2025 21:39:35.501] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jul2025 21:39:35.501] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jul2025 21:40:00.146] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:40:01.647] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:40:16.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:40:32.895] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:40:33.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:40:33.694] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Jul2025 21:40:34.702] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:40:34.702] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Jul2025 21:40:34.702] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:40:35.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:40:35.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Jul2025 21:40:36.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:40:36.445] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Jul2025 21:40:40.134] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[20Jul2025 21:40:40.137] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.316 Result Damage: 22.816
+[20Jul2025 21:40:42.283] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[20Jul2025 21:40:42.283] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 10.0 Damage not ignoring armor: 10.0 Reduced Damage: 10.0 Result Damage: 20.0
+[20Jul2025 21:42:11.132] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[20Jul2025 21:42:11.132] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 28.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 14.0 Damage not ignoring armor: 14.0 Reduced Damage: 13.776 Result Damage: 27.776001
+[20Jul2025 21:42:21.679] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[20Jul2025 21:42:21.679] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.5 Result Damage: 23.0
+[20Jul2025 21:42:23.603] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:42:25.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Jul2025 21:44:06.208] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[20Jul2025 21:44:06.208] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[20Jul2025 21:44:06.211] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi

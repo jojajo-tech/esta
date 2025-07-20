@@ -853,3 +853,28 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Jul2025 21:33:33.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ven
 [20Jul2025 21:33:36.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> lo reconoces?
 [20Jul2025 21:33:45.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> ven toque pis
+[20Jul2025 21:33:51.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> tegngo full lag, no me alejare de aqui xd
+[20Jul2025 21:34:02.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> mi item en la mano?
+[20Jul2025 21:34:07.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> lo reconoces?
+[20Jul2025 21:34:15.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> haz un ramo de flores cojuda
+[20Jul2025 21:34:31.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> bloqueador??
+[20Jul2025 21:34:33.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> dame 25 flores y te doy uno
+[20Jul2025 21:34:38.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> no cojuda mira
+[20Jul2025 21:34:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> digo te doy 5
+[20Jul2025 21:34:47.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> miras
+[20Jul2025 21:35:04.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> k???
+[20Jul2025 21:35:10.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> :>
+[20Jul2025 21:35:12.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> al frente tuyo pe
+[20Jul2025 21:35:15.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[20Jul2025 21:35:44.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> q tal?
+[20Jul2025 21:36:11.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> a la m tengo full lag xd
+[20Jul2025 21:36:13.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> bye
+[20Jul2025 21:36:18.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[20Jul2025 21:36:18.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[20Jul2025 21:36:18.034] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[20Jul2025 21:36:18.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ServerZero> XD
+[20Jul2025 21:37:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement ['Til Death Do Us Part]
+[20Jul2025 21:38:50.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement [Next Generation]
+[20Jul2025 21:39:35.500] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
+[20Jul2025 21:39:35.501] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jul2025 21:39:35.501] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
