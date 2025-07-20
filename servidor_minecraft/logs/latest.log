@@ -855,3 +855,23 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Jul2025 16:04:24.724] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [20Jul2025 16:04:33.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Teleported BabyChoclo to -57.160000, 63.000000, 13.220000]
 [20Jul2025 16:09:32.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Gave 640 [Relic Experience Bottle] to ServerZero]
+[20Jul2025 16:16:39.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ ServerZero ha consumido un tótem!
+[20Jul2025 16:17:44.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Gamerule keepInventory is now set to: true]
+[20Jul2025 16:17:52.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero died
+[20Jul2025 16:17:52.354] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ServerZero with unique ID travelersbackpack.netherite_20.07.2025-16.17.52.dat
+[20Jul2025 16:17:52.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Killed ServerZero]
+[20Jul2025 16:17:53.747] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[20Jul2025 16:17:53.747] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[20Jul2025 16:18:49.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ServerZero: Set own game mode to Spectator Mode]
+[20Jul2025 16:19:14.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero lost connection: Disconnected
+[20Jul2025 16:19:14.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero left the game
+[20Jul2025 16:19:14.548] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ServerZero
+[20Jul2025 16:20:15.848] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65b9fe75[id=<null>,name=ServerZero,properties={},legacy=false] (/127.53.118.236:45819) lost connection: Disconnected
+[20Jul2025 16:20:20.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ServerZero[/127.53.118.236:34027] logged in with entity id 10687 at (-57.16914516067245, 63.5, 9.830663976315225)
+[20Jul2025 16:20:20.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero joined the game
+[20Jul2025 16:20:20.804] [Server thread/INFO] [Jade/]: Syncing config to ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8)
+[20Jul2025 16:20:21.326] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ServerZero (18)
+[20Jul2025 16:20:21.326] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ServerZero
+[20Jul2025 16:20:25.223] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8
+[20Jul2025 16:20:27.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8
+[20Jul2025 16:20:27.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8) successfully connected to voice chat
