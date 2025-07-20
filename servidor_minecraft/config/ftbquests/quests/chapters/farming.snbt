@@ -570,6 +570,126 @@
 			x: -1.5d
 			y: 2.0d
 		}
+		{
+			id: "78F2CDCDF03B6668"
+			rewards: [
+				{
+					count: 6
+					id: "76194766541299E3"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5378981BF81D9DFC"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "5A4C07B7153DE423"
+				item: { Count: 32, id: "farmersdelight:wheat_dough" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "44E85519C51EE266"
+			rewards: [
+				{
+					count: 8
+					id: "7F307CB7B1CFA2D4"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6DBC67D99ADDBADF"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "098CCC7044A2D36E"
+				item: { Count: 8, id: "farmersdelight:raw_pasta" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			id: "56200E485A4BB869"
+			rewards: [
+				{
+					count: 2
+					id: "55C957142179AF98"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "55D41301E1609EB5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "3D312B6A471E74BB"
+				item: { Count: 64, id: "minecraft:pumpkin" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			id: "2720B86A4E99B9AC"
+			rewards: [
+				{
+					count: 4
+					id: "479FB3030FD33904"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5B0A541DD2F86504"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "3BC6819AB98C6929"
+				item: { Count: 64, id: "farmersdelight:pumpkin_slice" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			id: "74B13229509BCBE4"
+			rewards: [
+				{
+					count: 4
+					id: "2334263F69570B51"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "158E1B6B862C2126"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "4E779C0BFD166F21"
+				item: { Count: 32, id: "farmersdelight:cabbage_leaf" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
 	]
 	title: "Farming"
 }
