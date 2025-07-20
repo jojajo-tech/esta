@@ -886,3 +886,28 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Jul2025 16:35:48.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8
 [20Jul2025 16:35:50.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d4de9ca5-0c64-3e3d-8474-c32e496ad4e8
 [20Jul2025 16:35:50.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ServerZero (d4de9ca5-0c64-3e3d-8474-c32e496ad4e8) successfully connected to voice chat
+[20Jul2025 16:36:24.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BabyChoclo lost connection: Disconnected
+[20Jul2025 16:36:24.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BabyChoclo left the game
+[20Jul2025 16:36:24.847] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BabyChoclo
+[20Jul2025 16:36:24.893] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Jul2025 16:36:42.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BabyChoclo[/127.175.209.149:39103] logged in with entity id 12446 at (-57.621087780587814, 63.0, 13.45463300078621)
+[20Jul2025 16:36:42.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BabyChoclo joined the game
+[20Jul2025 16:36:42.576] [Server thread/INFO] [Jade/]: Syncing config to BabyChoclo (69af577f-314d-33ee-9fc2-d76865bc4500)
+[20Jul2025 16:36:43.170] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BabyChoclo (18)
+[20Jul2025 16:36:43.170] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BabyChoclo
+[20Jul2025 16:36:45.011] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 69af577f-314d-33ee-9fc2-d76865bc4500
+[20Jul2025 16:36:47.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 69af577f-314d-33ee-9fc2-d76865bc4500
+[20Jul2025 16:36:47.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player BabyChoclo (69af577f-314d-33ee-9fc2-d76865bc4500) successfully connected to voice chat
+[20Jul2025 16:37:54.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Jul2025 16:37:54.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jul2025 16:37:54.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jul2025 16:37:54.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Jul2025 16:37:54.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Jul2025 16:37:54.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[20Jul2025 16:37:54.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Jul2025 16:37:54.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Jul2025 16:37:54.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Jul2025 16:37:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[20Jul2025 16:37:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Jul2025 16:37:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Jul2025 16:37:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
