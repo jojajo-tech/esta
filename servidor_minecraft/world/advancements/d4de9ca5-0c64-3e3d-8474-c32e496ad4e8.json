@@ -474,6 +474,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-19 01:42:32 +0000",
       "minecraft:spider": "2025-07-19 01:37:54 +0000",
+      "minecraft:creeper": "2025-07-20 21:40:42 +0000",
       "minecraft:phantom": "2025-07-19 01:38:46 +0000",
       "minecraft:witch": "2025-07-20 21:16:48 +0000",
       "minecraft:husk": "2025-07-17 02:15:58 +0000",
@@ -5381,9 +5382,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-07-20 21:46:45 +0000"
+    },
+    "done": true
+  },
   "mca:baby": {
     "criteria": {
       "baby": "2025-07-20 21:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-20 21:46:45 +0000"
     },
     "done": true
   },
@@ -5396,6 +5409,12 @@
   "mca:best_friend": {
     "criteria": {
       "baby": "2025-07-20 21:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-20 21:46:45 +0000"
     },
     "done": true
   },

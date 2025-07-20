@@ -878,3 +878,19 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Jul2025 21:39:35.500] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
 [20Jul2025 21:39:35.501] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
 [20Jul2025 21:39:35.501] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Jul2025 21:46:45.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero has made the advancement [Suit Up]
+[20Jul2025 21:52:33.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Jul2025 21:52:33.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jul2025 21:52:33.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jul2025 21:52:33.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero lost connection: Disconnected
+[20Jul2025 21:52:33.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero left the game
+[20Jul2025 21:52:33.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Jul2025 21:52:34.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Jul2025 21:52:34.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[20Jul2025 21:52:34.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Jul2025 21:52:34.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Jul2025 21:52:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Jul2025 21:52:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[20Jul2025 21:52:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Jul2025 21:52:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Jul2025 21:52:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
