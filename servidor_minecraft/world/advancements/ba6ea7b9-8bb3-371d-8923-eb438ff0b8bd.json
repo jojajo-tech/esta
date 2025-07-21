@@ -920,6 +920,7 @@
       "minecraft:spider": "2025-07-13 23:39:43 +0000",
       "minecraft:creeper": "2025-07-17 01:42:47 +0000",
       "minecraft:slime": "2025-07-19 02:09:14 +0000",
+      "minecraft:witch": "2025-07-21 00:12:23 +0000",
       "minecraft:zombie": "2025-07-12 21:16:16 +0000"
     },
     "done": false
@@ -1011,6 +1012,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_pillager_camp": "2025-07-12 20:42:04 +0000",
+      "entered_tall_witch_hut": "2025-07-21 00:12:15 +0000",
       "entered_ruined_building": "2025-07-12 21:22:39 +0000"
     },
     "done": false
@@ -4748,9 +4750,21 @@
     },
     "done": true
   },
-  "mca:friend": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "baby": "2025-07-19 02:37:05 +0000"
+      "has_slime_ball": "2025-07-19 02:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-19 02:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-19 02:09:24 +0000"
     },
     "done": true
   },
@@ -4766,18 +4780,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/chain_sticky": {
-    "criteria": {
-      "has_item": "2025-07-19 02:22:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-07-19 02:09:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-07-19 02:12:34 +0000"
@@ -4790,27 +4792,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-07-19 02:09:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-07-19 02:12:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-07-19 02:09:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-07-19 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2025-07-19 02:22:33 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-07-19 02:37:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-21 00:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-21 00:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-21 00:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-07-21 00:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-21 00:12:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-07-21 00:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-21 00:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-21 00:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-21 00:12:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-21 00:13:16 +0000"
     },
     "done": true
   },

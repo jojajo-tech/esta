@@ -3,7 +3,8 @@
   "__COMMENT2": "please place this configuration file into your config directory",
   "__COMMENT3": "with the following name: cpm-server-default.json",
   "skins": {
-    "d4de9ca5-0c64-3e3d-8474-c32e496ad4e8": {}
+    "d4de9ca5-0c64-3e3d-8474-c32e496ad4e8": {},
+    "599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7": {}
   },
   "player_scaling": {
     "599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7": {},
