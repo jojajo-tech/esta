@@ -5596,5 +5596,17 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-07-21 23:18:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-21 23:18:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
