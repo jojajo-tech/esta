@@ -526,3 +526,57 @@
 [21Jul2025 01:16:36.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: sigues alli?
 [21Jul2025 01:16:46.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SI
 [21Jul2025 01:17:40.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TENGO TRES
+[21Jul2025 01:19:38.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> APAGALO
+[21Jul2025 01:19:41.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.5.189.203:42883] logged in with entity id 46409 at (-1067.487427398529, 108.0, -395.5760711499269)
+[21Jul2025 01:19:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[21Jul2025 01:19:41.301] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[21Jul2025 01:19:42.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[21Jul2025 01:19:42.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[21Jul2025 01:19:42.190] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[21Jul2025 01:19:43.017] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[21Jul2025 01:19:43.017] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[21Jul2025 01:19:46.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:43607] logged in with entity id 46713 at (938.8768848282621, 70.0, 855.6999999880791)
+[21Jul2025 01:19:46.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[21Jul2025 01:19:46.950] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[21Jul2025 01:19:47.640] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[21Jul2025 01:19:47.641] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[21Jul2025 01:19:47.859] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/46721, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Jul2025 01:19:47.859] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/46721, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Jul2025 01:19:47.859] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/46721, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[21Jul2025 01:19:47.860] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@65e6c298, net.minecraft.world.item.trading.MerchantOffer@2af05de7, net.minecraft.world.item.trading.MerchantOffer@5dbc605b, net.minecraft.world.item.trading.MerchantOffer@3f50c03c, net.minecraft.world.item.trading.MerchantOffer@6cf1274c] for Humanoid['entity.easy_npc.humanoid'/46721, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[21Jul2025 01:19:49.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[21Jul2025 01:19:51.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[21Jul2025 01:19:51.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[21Jul2025 01:19:55.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Jul2025 01:19:57.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Jul2025 01:19:57.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[21Jul2025 01:20:04.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> cuant tiempo tienes?
+[21Jul2025 01:20:14.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> unos 20 o 30 minuts
+[21Jul2025 01:20:24.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> yo solo 10
+[21Jul2025 01:20:35.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[21Jul2025 01:20:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> que fueron 5 ya
+[21Jul2025 01:22:09.480] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/48029, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Jul2025 01:22:09.480] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/48029, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Jul2025 01:22:09.480] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/48029, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[21Jul2025 01:22:09.481] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@56595516, net.minecraft.world.item.trading.MerchantOffer@21ca1fe, net.minecraft.world.item.trading.MerchantOffer@83643f0, net.minecraft.world.item.trading.MerchantOffer@4465e24e, net.minecraft.world.item.trading.MerchantOffer@5808fe31] for Humanoid['entity.easy_npc.humanoid'/48029, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[21Jul2025 01:22:14.020] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/48056, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Jul2025 01:22:14.021] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/48056, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Jul2025 01:22:14.021] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/48056, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[21Jul2025 01:22:14.021] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@7e5fca22, net.minecraft.world.item.trading.MerchantOffer@18a71165, net.minecraft.world.item.trading.MerchantOffer@70c98e2a, net.minecraft.world.item.trading.MerchantOffer@1f040bcc, net.minecraft.world.item.trading.MerchantOffer@1f8adcd4] for Humanoid['entity.easy_npc.humanoid'/48056, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[21Jul2025 01:23:09.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Take Aim]
+[21Jul2025 01:23:21.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> RECIEN
+[21Jul2025 01:23:33.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Fire Dragon
+[21Jul2025 01:23:33.952] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.wolf_21.07.2025-01.23.33.dat
+[21Jul2025 01:23:36.395] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Jul2025 01:23:36.395] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Jul2025 01:23:41.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1131.500000, 92.500000, -477.500000]
+[21Jul2025 01:25:31.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7 timed out
+[21Jul2025 01:25:31.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player C0LIGAMES
+[21Jul2025 01:25:31.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[21Jul2025 01:25:42.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[21Jul2025 01:25:42.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[21Jul2025 01:25:42.023] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[21Jul2025 01:26:12.360] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/50267, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Jul2025 01:26:12.361] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/50267, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Jul2025 01:26:12.361] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/50267, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[21Jul2025 01:26:12.361] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@112e1047, net.minecraft.world.item.trading.MerchantOffer@3b851793, net.minecraft.world.item.trading.MerchantOffer@34d6d189, net.minecraft.world.item.trading.MerchantOffer@1eb0e937, net.minecraft.world.item.trading.MerchantOffer@7ffd7e8e] for Humanoid['entity.easy_npc.humanoid'/50267, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
