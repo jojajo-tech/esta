@@ -456,3 +456,10 @@
 [21Jul2025 00:27:31.663] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
 [21Jul2025 00:27:31.663] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
 [21Jul2025 00:27:35.585] [Worker-Main-3/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:tall_seagrass
+[21Jul2025 00:28:05.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[21Jul2025 00:28:06.343] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Jul2025 00:28:06.344] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Jul2025 00:32:17.836] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/19613, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Jul2025 00:32:17.836] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/19613, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Jul2025 00:32:17.836] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/19613, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[21Jul2025 00:32:17.837] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@6cc4802c, net.minecraft.world.item.trading.MerchantOffer@53fa0388, net.minecraft.world.item.trading.MerchantOffer@7b575508, net.minecraft.world.item.trading.MerchantOffer@16dc00f1, net.minecraft.world.item.trading.MerchantOffer@5e5127e6] for Humanoid['entity.easy_npc.humanoid'/19613, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
