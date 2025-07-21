@@ -463,3 +463,66 @@
 [21Jul2025 00:32:17.836] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/19613, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
 [21Jul2025 00:32:17.836] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/19613, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
 [21Jul2025 00:32:17.837] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@6cc4802c, net.minecraft.world.item.trading.MerchantOffer@53fa0388, net.minecraft.world.item.trading.MerchantOffer@7b575508, net.minecraft.world.item.trading.MerchantOffer@16dc00f1, net.minecraft.world.item.trading.MerchantOffer@5e5127e6] for Humanoid['entity.easy_npc.humanoid'/19613, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[21Jul2025 00:40:31.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Hydra
+[21Jul2025 00:40:33.203] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Jul2025 00:40:33.203] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Jul2025 00:44:38.984] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/27426, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Jul2025 00:44:38.985] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/27426, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Jul2025 00:44:38.985] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/27426, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[21Jul2025 00:44:38.985] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@4698a253, net.minecraft.world.item.trading.MerchantOffer@4012cfde, net.minecraft.world.item.trading.MerchantOffer@37271f60, net.minecraft.world.item.trading.MerchantOffer@47c6922, net.minecraft.world.item.trading.MerchantOffer@7f5c9c4] for Humanoid['entity.easy_npc.humanoid'/27426, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[21Jul2025 00:45:56.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ZZZZ
+[21Jul2025 00:46:04.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ZZZ
+[21Jul2025 00:46:25.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZZZZ
+[21Jul2025 00:46:29.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ZZZZ NO GOD
+[21Jul2025 00:54:03.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Hydra
+[21Jul2025 00:54:04.794] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Jul2025 00:54:04.794] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Jul2025 00:54:05.313] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/32688, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Jul2025 00:54:05.314] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/32688, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Jul2025 00:54:05.314] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/32688, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[21Jul2025 00:54:05.314] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@26208d48, net.minecraft.world.item.trading.MerchantOffer@48052eef, net.minecraft.world.item.trading.MerchantOffer@5db82a1b, net.minecraft.world.item.trading.MerchantOffer@4f23d7a6, net.minecraft.world.item.trading.MerchantOffer@6dcb59c7] for Humanoid['entity.easy_npc.humanoid'/32688, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[21Jul2025 00:59:32.366] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-07-21 at /workspaces/esta/servidor_minecraft/easy_npc/backup ...
+[21Jul2025 01:00:43.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> zzz
+[21Jul2025 01:01:04.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> zzz
+[21Jul2025 01:01:07.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> zzzzzz
+[21Jul2025 01:05:04.491] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[21Jul2025 01:05:04.501] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[21Jul2025 01:05:04.697] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[21Jul2025 01:05:04.712] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[21Jul2025 01:05:04.713] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[21Jul2025 01:05:04.724] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[21Jul2025 01:05:06.968] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[21Jul2025 01:05:06.978] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[21Jul2025 01:05:06.978] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[21Jul2025 01:05:06.987] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[21Jul2025 01:05:06.987] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[21Jul2025 01:05:06.987] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[21Jul2025 01:05:07.156] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[21Jul2025 01:05:07.156] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[21Jul2025 01:05:07.174] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[21Jul2025 01:05:07.174] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[21Jul2025 01:06:31.069] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Jul2025 01:06:31.069] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[21Jul2025 01:06:31.069] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[21Jul2025 01:06:33.794] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1548, y=16, z=1609} but found not block entity block Block{minecraft:water}[level=0] at location
+[21Jul2025 01:06:33.794] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1548, y=16, z=1609}
+[21Jul2025 01:06:35.853] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1537, y=16, z=1594} but found not block entity block Block{minecraft:water}[level=0] at location
+[21Jul2025 01:06:35.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1537, y=16, z=1594}
+[21Jul2025 01:06:36.237] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1552, y=16, z=1590} but found not block entity block Block{minecraft:water}[level=0] at location
+[21Jul2025 01:06:36.237] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1552, y=16, z=1590}
+[21Jul2025 01:06:38.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1568, y=16, z=1624} but found not block entity block Block{minecraft:water}[level=0] at location
+[21Jul2025 01:06:38.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1568, y=16, z=1624}
+[21Jul2025 01:11:53.432] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/44842, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Jul2025 01:11:53.432] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/44842, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Jul2025 01:11:53.432] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/44842, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[21Jul2025 01:11:53.433] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@4f8b5831, net.minecraft.world.item.trading.MerchantOffer@305f0d0a, net.minecraft.world.item.trading.MerchantOffer@7ed6ead3, net.minecraft.world.item.trading.MerchantOffer@29fd5484, net.minecraft.world.item.trading.MerchantOffer@3ca2db5a] for Humanoid['entity.easy_npc.humanoid'/44842, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[21Jul2025 01:13:27.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7 timed out
+[21Jul2025 01:13:27.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player C0LIGAMES
+[21Jul2025 01:13:27.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[21Jul2025 01:13:36.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[21Jul2025 01:13:36.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[21Jul2025 01:13:36.111] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[21Jul2025 01:13:36.190] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jul2025 01:16:36.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: sigues alli?
+[21Jul2025 01:16:46.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SI
+[21Jul2025 01:17:40.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TENGO TRES
