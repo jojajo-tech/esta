@@ -580,3 +580,73 @@
 [21Jul2025 01:26:12.361] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/50267, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
 [21Jul2025 01:26:12.361] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/50267, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
 [21Jul2025 01:26:12.361] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@112e1047, net.minecraft.world.item.trading.MerchantOffer@3b851793, net.minecraft.world.item.trading.MerchantOffer@34d6d189, net.minecraft.world.item.trading.MerchantOffer@1eb0e937, net.minecraft.world.item.trading.MerchantOffer@7ffd7e8e] for Humanoid['entity.easy_npc.humanoid'/50267, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[21Jul2025 01:30:13.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[21Jul2025 01:30:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[21Jul2025 01:30:13.354] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[21Jul2025 01:30:18.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[21Jul2025 01:30:49.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.70.108.249:51043] logged in with entity id 51675 at (-1119.0030930123492, 101.16610926093821, -459.53203756977)
+[21Jul2025 01:30:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[21Jul2025 01:30:49.347] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[21Jul2025 01:30:50.379] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[21Jul2025 01:30:50.380] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[21Jul2025 01:31:04.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Jul2025 01:31:06.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Jul2025 01:31:06.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[21Jul2025 01:31:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[21Jul2025 01:32:20.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[21Jul2025 01:33:06.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Dragonslayer]
+[21Jul2025 01:33:10.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> WTF
+[21Jul2025 01:33:47.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
+[21Jul2025 01:33:47.659] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.wolf_21.07.2025-01.33.47.dat
+[21Jul2025 01:33:51.950] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Jul2025 01:33:51.950] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Jul2025 01:34:09.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[21Jul2025 01:34:19.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[21Jul2025 01:34:19.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[21Jul2025 01:34:19.598] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[21Jul2025 01:34:41.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.70.108.249:36653] logged in with entity id 52954 at (-1116.2698343864367, 99.7531999805212, -448.06693271895375)
+[21Jul2025 01:34:41.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[21Jul2025 01:34:41.451] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[21Jul2025 01:34:42.214] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[21Jul2025 01:34:42.215] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[21Jul2025 01:34:44.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Jul2025 01:34:47.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Jul2025 01:34:47.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[21Jul2025 01:35:11.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[21Jul2025 01:35:11.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[21Jul2025 01:35:11.502] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[21Jul2025 01:35:42.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.70.108.249:55543] logged in with entity id 53389 at (-1116.2698343864367, 99.7531999805212, -448.06693271895375)
+[21Jul2025 01:35:43.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[21Jul2025 01:35:43.043] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[21Jul2025 01:35:43.762] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[21Jul2025 01:35:43.762] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[21Jul2025 01:35:45.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Jul2025 01:35:47.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Jul2025 01:35:47.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[21Jul2025 01:36:13.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[21Jul2025 01:36:13.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[21Jul2025 01:36:13.048] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[21Jul2025 01:36:56.249] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.70.108.249:37997] logged in with entity id 53811 at (-1116.2698343864367, 99.7531999805212, -448.06693271895375)
+[21Jul2025 01:36:56.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[21Jul2025 01:36:56.293] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[21Jul2025 01:36:57.079] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[21Jul2025 01:36:57.079] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[21Jul2025 01:37:01.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Jul2025 01:37:03.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[21Jul2025 01:37:03.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[21Jul2025 01:37:26.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[21Jul2025 01:37:26.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[21Jul2025 01:37:26.348] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[21Jul2025 01:38:18.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jul2025 01:38:18.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jul2025 01:38:18.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jul2025 01:38:18.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jul2025 01:38:19.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jul2025 01:38:19.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jul2025 01:38:19.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[21Jul2025 01:38:19.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jul2025 01:38:19.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jul2025 01:38:19.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jul2025 01:38:19.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[21Jul2025 01:38:19.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jul2025 01:38:19.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
