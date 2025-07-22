@@ -816,3 +816,54 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [22Jul2025 23:11:06.332] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [22Jul2025 23:11:06.333] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [22Jul2025 23:24:01.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZ
+[22Jul2025 23:39:30.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[22Jul2025 23:39:30.701] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.wolf_22.07.2025-23.39.30.dat
+[22Jul2025 23:39:36.000] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jul2025 23:39:36.001] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[22Jul2025 23:39:38.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -653.500000, 67.500000, -380.500000]
+[22Jul2025 23:39:49.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[22Jul2025 23:39:49.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Killed C0LIGAMES]
+[22Jul2025 23:39:51.168] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jul2025 23:39:51.168] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[22Jul2025 23:39:55.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -652.500000, 67.500000, -379.500000]
+[22Jul2025 23:40:55.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[22Jul2025 23:40:58.511] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jul2025 23:40:58.511] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[22Jul2025 23:41:01.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -572.500000, 76.500000, -262.500000]
+[22Jul2025 23:41:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[22Jul2025 23:41:07.504] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[22Jul2025 23:41:07.737] [Server thread/INFO] [Scaling Health/]: Blight Creeper has died
+[22Jul2025 23:41:07.756] [Server thread/INFO] [Scaling Health/]: Blight Tei has died
+[22Jul2025 23:41:07.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Tei'/12955, l='ServerLevel[world]', x=-679.59, y=64.00, z=-286.61] died: Tei was killed
+[22Jul2025 23:41:07.763] [Server thread/INFO] [Scaling Health/]: Blight Wolf has died
+[22Jul2025 23:41:07.768] [Server thread/INFO] [Scaling Health/]: Blight Wolf has died
+[22Jul2025 23:41:08.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Killed 316 entities]
+[22Jul2025 23:41:09.450] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jul2025 23:41:09.451] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[22Jul2025 23:41:13.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -574.500000, 68.500000, -264.500000]
+[22Jul2025 23:41:28.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES tried to swim in lava
+[22Jul2025 23:41:30.317] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jul2025 23:41:30.317] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[22Jul2025 23:41:33.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -571.500000, 69.500000, -268.500000]
+[22Jul2025 23:42:14.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[22Jul2025 23:42:14.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[22Jul2025 23:42:14.999] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[22Jul2025 23:42:25.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:58903] logged in with entity id 15675 at (-581.3557834666392, 68.0, -261.60055509119945)
+[22Jul2025 23:42:25.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[22Jul2025 23:42:25.314] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[22Jul2025 23:42:26.048] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[22Jul2025 23:42:26.048] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[22Jul2025 23:42:27.799] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 23:42:28.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 23:42:28.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[22Jul2025 23:42:29.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[22Jul2025 23:42:29.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[22Jul2025 23:42:29.049] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[22Jul2025 23:43:47.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:34371] logged in with entity id 16218 at (-581.3557834666392, 68.0, -261.60055509119945)
+[22Jul2025 23:43:47.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[22Jul2025 23:43:47.350] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[22Jul2025 23:43:48.104] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[22Jul2025 23:43:48.105] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[22Jul2025 23:43:48.430] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 23:43:49.428] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 23:43:49.429] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
