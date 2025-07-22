@@ -788,3 +788,12 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [22Jul2025 22:37:49.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ServerZero lost connection: Disconnected
 [22Jul2025 22:37:49.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ServerZero left the game
 [22Jul2025 22:37:49.061] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ServerZero
+[22Jul2025 22:55:26.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:34521] logged in with entity id 431 at (-397.30684430839824, 68.0, -287.3265462002869)
+[22Jul2025 22:55:27.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[22Jul2025 22:55:27.166] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[22Jul2025 22:55:29.325] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[22Jul2025 22:55:29.326] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[22Jul2025 22:55:29.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[22Jul2025 22:55:35.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 22:55:36.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 22:55:36.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
