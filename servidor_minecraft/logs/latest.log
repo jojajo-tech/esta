@@ -797,3 +797,22 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [22Jul2025 22:55:35.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
 [22Jul2025 22:55:36.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
 [22Jul2025 22:55:36.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[22Jul2025 23:04:49.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ C0LIGAMES ha consumido un tótem!
+[22Jul2025 23:10:35.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[22Jul2025 23:10:35.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[22Jul2025 23:10:35.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[22Jul2025 23:10:53.393] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c2964ae[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:33285) lost connection: Disconnected
+[22Jul2025 23:10:58.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:54265] logged in with entity id 3951 at (-946.6999999880791, 81.0, -650.295588148229)
+[22Jul2025 23:10:58.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[22Jul2025 23:10:58.165] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[22Jul2025 23:10:59.295] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[22Jul2025 23:10:59.296] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[22Jul2025 23:11:00.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 23:11:01.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 23:11:01.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[22Jul2025 23:11:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES died from hugs while running away Grotesque steve
+[22Jul2025 23:11:05.070] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.wolf_22.07.2025-23.11.05.dat
+[22Jul2025 23:11:05.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 272.89114041923176,-17.28985651216854,-5.702880533320126
+[22Jul2025 23:11:06.332] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[22Jul2025 23:11:06.333] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[22Jul2025 23:24:01.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZ
