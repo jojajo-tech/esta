@@ -5658,12 +5658,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location0": "2025-07-22 01:29:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-07-22 01:16:10 +0000"
@@ -5675,12 +5669,6 @@
       "has_stick": "2025-07-22 01:16:10 +0000"
     },
     "done": true
-  },
-  "dungeons_enhanced:ambitious_explorer": {
-    "criteria": {
-      "entered_fishing_ship": "2025-07-22 01:29:03 +0000"
-    },
-    "done": false
   },
   "spartanweaponry:recipes/combat/handle_from_leather": {
     "criteria": {
@@ -5697,18 +5685,6 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-07-22 01:16:10 +0000"
-    },
-    "done": true
-  },
-  "hangglider:recipes/tools/reinforced_hang_glider": {
-    "criteria": {
-      "has_elytra": "2025-07-22 01:21:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-07-22 01:21:31 +0000"
     },
     "done": true
   },
@@ -5730,33 +5706,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-07-22 01:16:13 +0000"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:root": {
-    "criteria": {
-      "entered_fishing_ship": "2025-07-22 01:29:03 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/pole_from_wool": {
     "criteria": {
       "has_stick": "2025-07-22 01:16:10 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald": "2025-07-22 01:16:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-07-22 01:16:13 +0000"
     },
     "done": true
   },
@@ -5787,6 +5739,54 @@
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-07-22 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-22 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-07-22 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-22 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/reinforced_hang_glider": {
+    "criteria": {
+      "has_elytra": "2025-07-22 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-07-22 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_fishing_ship": "2025-07-22 01:29:03 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_fishing_ship": "2025-07-22 01:29:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-07-22 01:29:23 +0000"
     },
     "done": true
   },
