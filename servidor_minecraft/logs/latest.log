@@ -867,3 +867,30 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [22Jul2025 23:43:48.430] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
 [22Jul2025 23:43:49.428] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
 [22Jul2025 23:43:49.429] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[22Jul2025 23:51:09.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Gave 1 [Espada Fantasmal] to C0LIGAMES]
+[22Jul2025 23:52:00.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[22Jul2025 23:52:00.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[22Jul2025 23:52:00.242] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[22Jul2025 23:52:06.090] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36227d64[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:52525) lost connection: Disconnected
+[22Jul2025 23:52:20.287] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fad67f9[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:37545) lost connection: Disconnected
+[22Jul2025 23:52:24.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:33781] logged in with entity id 27479 at (-63.3372114601821, 64.0, 13.447799951127452)
+[22Jul2025 23:52:24.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[22Jul2025 23:52:24.877] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[22Jul2025 23:52:25.206] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[22Jul2025 23:52:25.207] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[22Jul2025 23:52:26.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 23:52:27.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 23:52:27.860] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[22Jul2025 23:52:28.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Espada Fantasmal] to C0LIGAMES
+[22Jul2025 23:52:37.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[22Jul2025 23:52:37.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[22Jul2025 23:52:37.592] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[22Jul2025 23:52:44.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:39617] logged in with entity id 27527 at (-63.3372114601821, 64.0, 13.447799951127452)
+[22Jul2025 23:52:44.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[22Jul2025 23:52:45.033] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[22Jul2025 23:52:45.321] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[22Jul2025 23:52:45.322] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[22Jul2025 23:52:47.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 23:52:48.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[22Jul2025 23:52:48.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[22Jul2025 23:53:03.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Espada Fantasmal] to C0LIGAMES
