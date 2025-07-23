@@ -5549,5 +5549,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-07-23 01:15:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-23 01:12:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
