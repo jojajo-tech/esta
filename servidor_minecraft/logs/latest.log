@@ -607,3 +607,48 @@
 [23Jul2025 01:59:34.516] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/202326, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
 [23Jul2025 01:59:34.516] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@1a986b9f, net.minecraft.world.item.trading.MerchantOffer@4b223215, net.minecraft.world.item.trading.MerchantOffer@cb0a80, net.minecraft.world.item.trading.MerchantOffer@574b1f02, net.minecraft.world.item.trading.MerchantOffer@ed642e7] for Humanoid['entity.easy_npc.humanoid'/202326, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
 [23Jul2025 02:00:35.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> NO JODAS
+[23Jul2025 02:00:49.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Kicked Anzu_ara: Por pendeja entra de nuevo por roleo XD]
+[23Jul2025 02:00:49.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Por pendeja entra de nuevo por roleo XD
+[23Jul2025 02:00:49.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[23Jul2025 02:00:49.872] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[23Jul2025 02:00:55.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23Jul2025 02:01:49.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[23Jul2025 02:02:03.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was killed by Witch using magic
+[23Jul2025 02:02:03.289] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_23.07.2025-02.02.03.dat
+[23Jul2025 02:02:04.586] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 02:02:04.586] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 02:02:14.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 02:02:32.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3839ms or 76 ticks behind
+[23Jul2025 02:02:50.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[23Jul2025 02:03:38.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 02:03:56.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[23Jul2025 02:04:13.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[23Jul2025 02:04:23.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Slime
+[23Jul2025 02:04:24.767] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 02:04:24.767] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 02:04:27.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 02:05:24.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23Jul2025 02:05:42.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[23Jul2025 02:06:01.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4026ms or 80 ticks behind
+[23Jul2025 02:06:21.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5359ms or 107 ticks behind
+[23Jul2025 02:06:40.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4474ms or 89 ticks behind
+[23Jul2025 02:06:58.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[23Jul2025 02:07:49.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[23Jul2025 02:08:11.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Welcome To The Machine]
+[23Jul2025 02:08:16.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[23Jul2025 02:08:22.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Jul2025 02:08:56.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 02:09:21.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 02:09:35.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Wither Skeleton
+[23Jul2025 02:09:35.478] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_23.07.2025-02.09.35.dat
+[23Jul2025 02:09:36.981] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 02:09:36.981] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 02:09:38.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[23Jul2025 02:09:42.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[23Jul2025 02:10:03.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
+[23Jul2025 02:10:03.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[23Jul2025 02:10:03.546] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[23Jul2025 02:10:07.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 02:10:10.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
+[23Jul2025 02:10:10.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
+[23Jul2025 02:10:10.741] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client asrielmanrique
