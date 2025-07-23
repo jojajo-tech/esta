@@ -1055,3 +1055,85 @@
 [23Jul2025 02:51:50.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
 [23Jul2025 02:51:50.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
 [23Jul2025 02:51:50.154] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[23Jul2025 02:52:28.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZ
+[23Jul2025 02:53:48.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:54555] logged in with entity id 239147 at (-1084.8, 113.94, -715.63)
+[23Jul2025 02:53:48.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[23Jul2025 02:53:48.632] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[23Jul2025 02:53:49.357] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[23Jul2025 02:53:49.357] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[23Jul2025 02:54:07.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CREO QUE YA
+[23Jul2025 02:54:18.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
+[23Jul2025 02:54:18.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[23Jul2025 02:54:18.709] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[23Jul2025 02:54:51.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:43451] logged in with entity id 239334 at (-1084.8, 113.94, -715.63)
+[23Jul2025 02:54:51.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[23Jul2025 02:54:51.874] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[23Jul2025 02:54:52.308] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[23Jul2025 02:54:52.308] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[23Jul2025 02:55:04.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 02:55:05.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 02:55:05.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[23Jul2025 02:55:47.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
+[23Jul2025 02:56:10.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[23Jul2025 02:56:19.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> fue mi wifi
+[23Jul2025 02:56:28.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> vete a tu base XD
+[23Jul2025 02:56:43.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD ME ESTA AFECTANDO TU WIFI XD
+[23Jul2025 02:56:57.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ya lo arregle
+[23Jul2025 02:56:58.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[23Jul2025 02:56:58.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[23Jul2025 02:56:58.806] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[23Jul2025 02:57:09.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:60019] logged in with entity id 240094 at (-1090.2943185048953, 113.0, -719.7973146499367)
+[23Jul2025 02:57:09.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[23Jul2025 02:57:09.143] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[23Jul2025 02:57:10.052] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[23Jul2025 02:57:10.053] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[23Jul2025 02:57:17.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 02:57:18.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 02:57:18.428] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[23Jul2025 02:58:54.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vindicator
+[23Jul2025 02:58:55.311] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 02:58:55.312] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 02:59:22.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
+[23Jul2025 02:59:22.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[23Jul2025 02:59:22.270] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[23Jul2025 02:59:34.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:60381] logged in with entity id 241862 at (1092.5, 130.5625, 1967.5)
+[23Jul2025 02:59:34.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[23Jul2025 02:59:34.478] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[23Jul2025 02:59:35.454] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[23Jul2025 02:59:35.454] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[23Jul2025 02:59:48.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 02:59:49.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 02:59:49.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[23Jul2025 03:00:04.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
+[23Jul2025 03:00:04.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[23Jul2025 03:00:04.522] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[23Jul2025 03:00:29.902] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1153def2[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:56669) lost connection: Disconnected
+[23Jul2025 03:00:34.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:40633] logged in with entity id 242791 at (1092.5, 130.5625, 1967.5)
+[23Jul2025 03:00:34.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[23Jul2025 03:00:34.181] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[23Jul2025 03:00:34.587] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[23Jul2025 03:00:34.587] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[23Jul2025 03:00:37.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 03:00:38.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 03:00:38.916] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[23Jul2025 03:00:39.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[23Jul2025 03:00:39.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[23Jul2025 03:00:39.334] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[23Jul2025 03:01:04.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Stymphalian Bird
+[23Jul2025 03:01:12.457] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 03:01:12.457] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 03:01:34.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
+[23Jul2025 03:01:34.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[23Jul2025 03:01:34.259] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[23Jul2025 03:01:44.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:59749] logged in with entity id 244421 at (1089.7803538786316, 63.0, 1957.0640272306953)
+[23Jul2025 03:01:44.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[23Jul2025 03:01:44.210] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[23Jul2025 03:01:44.576] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[23Jul2025 03:01:44.576] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[23Jul2025 03:01:46.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: XD
+[23Jul2025 03:01:47.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 03:01:48.827] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 03:01:48.827] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[23Jul2025 03:02:16.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Stymphalian Bird
+[23Jul2025 03:02:17.422] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 03:02:17.422] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
