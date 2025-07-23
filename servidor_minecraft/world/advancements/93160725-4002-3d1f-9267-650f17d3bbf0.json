@@ -21,8 +21,10 @@
     "criteria": {
       "minecraft:taiga": "2025-07-16 23:55:20 +0000",
       "minecraft:sunflower_plains": "2025-07-23 01:11:08 +0000",
+      "minecraft:birch_forest": "2025-07-23 01:43:29 +0000",
       "minecraft:beach": "2025-07-16 23:40:39 +0000",
       "minecraft:river": "2025-07-16 23:19:52 +0000",
+      "minecraft:swamp": "2025-07-23 01:44:03 +0000",
       "minecraft:cold_ocean": "2025-07-17 00:19:25 +0000",
       "minecraft:forest": "2025-07-16 23:17:44 +0000",
       "minecraft:ocean": "2025-07-23 01:14:23 +0000",
@@ -919,7 +921,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-23 01:44:05 +0000",
       "cooked_mutton": "2025-07-17 00:56:16 +0000",
+      "bread": "2025-07-23 01:40:27 +0000",
       "golden_carrot": "2025-07-16 23:39:49 +0000"
     },
     "done": false
@@ -2634,8 +2638,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-23 01:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-07-23 01:33:12 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_stables": "2025-07-23 01:31:56 +0000",
       "entered_fishing_ship": "2025-07-23 01:23:19 +0000"
     },
     "done": false
@@ -2652,11 +2681,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-07-23 01:17:41 +0000"
     },
     "done": false
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-23 01:33:12 +0000"
+    },
+    "done": true
   },
   "mca:root": {
     "criteria": {
@@ -2670,6 +2729,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_leather_canteen": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-07-23 01:12:50 +0000"
@@ -2679,6 +2762,18 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-07-23 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-07-23 01:33:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-07-23 01:33:35 +0000"
     },
     "done": true
   },
@@ -2712,6 +2807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-23 01:31:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-07-23 01:09:28 +0000"
@@ -2721,6 +2822,18 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-23 01:17:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_graffiti": {
+    "criteria": {
+      "has_item": "2025-07-23 01:40:07 +0000"
     },
     "done": true
   },
@@ -2736,6 +2849,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-07-23 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-07-23 01:41:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-23 01:19:29 +0000"
@@ -2745,6 +2876,12 @@
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-07-23 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-23 01:33:12 +0000"
     },
     "done": true
   },

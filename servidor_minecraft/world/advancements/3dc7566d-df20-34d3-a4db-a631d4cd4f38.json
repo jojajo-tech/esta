@@ -1391,6 +1391,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-07-23 01:30:01 +0000",
       "beef": "2025-07-22 00:12:11 +0000",
       "mutton": "2025-07-22 00:04:27 +0000",
       "bread": "2025-07-21 22:29:53 +0000"
@@ -2996,6 +2997,30 @@
   "spartanweaponry:recipes/diamond_arrow": {
     "criteria": {
       "has_bow": "2025-07-23 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-23 01:33:30 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-07-23 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-23 01:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-23 01:37:57 +0000"
     },
     "done": true
   },

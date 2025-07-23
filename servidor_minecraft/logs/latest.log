@@ -361,3 +361,166 @@
 [23Jul2025 01:29:29.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> weeeeeeeeeee
 [23Jul2025 01:29:32.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> TMR
 [23Jul2025 01:29:33.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> que hicisteeeeeeeeeeeee
+[23Jul2025 01:29:40.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> te escucho en el voice we xd
+[23Jul2025 01:29:43.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> EXPLOTO UN CREEPER PIS
+[23Jul2025 01:29:48.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Jul2025 01:30:09.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo moved wrongly!
+[23Jul2025 01:30:14.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23Jul2025 01:30:32.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
+[23Jul2025 01:30:36.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Fire Dragon
+[23Jul2025 01:30:37.901] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 01:30:37.901] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 01:30:50.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2963ms or 59 ticks behind
+[23Jul2025 01:31:16.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Timed out
+[23Jul2025 01:31:16.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
+[23Jul2025 01:31:16.207] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
+[23Jul2025 01:31:16.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[23Jul2025 01:31:16.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[23Jul2025 01:31:16.804] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[23Jul2025 01:31:53.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.187.120.60:48435] logged in with entity id 179305 at (-1302.8460793956056, 88.7531999805212, -273.96732921220337)
+[23Jul2025 01:31:53.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
+[23Jul2025 01:31:53.315] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
+[23Jul2025 01:31:53.925] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (18)
+[23Jul2025 01:31:53.925] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
+[23Jul2025 01:31:55.134] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[23Jul2025 01:31:55.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:40595] logged in with entity id 179343 at (-1089.5857000495223, 113.0, -721.5936504437685)
+[23Jul2025 01:31:55.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[23Jul2025 01:31:55.533] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[23Jul2025 01:31:55.826] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[23Jul2025 01:31:55.827] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[23Jul2025 01:31:56.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[23Jul2025 01:31:56.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38) successfully connected to voice chat
+[23Jul2025 01:32:01.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> ptm el net
+[23Jul2025 01:32:04.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 01:32:25.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[23Jul2025 01:32:25.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[23Jul2025 01:32:25.524] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[23Jul2025 01:33:09.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23Jul2025 01:33:12.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Ice Bucket Challenge]
+[23Jul2025 01:33:25.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:40897] logged in with entity id 180396 at (-1089.5857000495223, 113.0, -721.5936504437685)
+[23Jul2025 01:33:25.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[23Jul2025 01:33:25.556] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[23Jul2025 01:33:25.851] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[23Jul2025 01:33:25.852] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[23Jul2025 01:33:42.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Jul2025 01:33:45.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 01:33:46.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 01:33:46.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[23Jul2025 01:33:56.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Spider
+[23Jul2025 01:33:59.227] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 01:33:59.227] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Jul2025 01:34:10.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[23Jul2025 01:34:10.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[23Jul2025 01:34:10.638] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[23Jul2025 01:34:15.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Jul2025 01:34:23.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Timed out
+[23Jul2025 01:34:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
+[23Jul2025 01:34:23.569] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
+[23Jul2025 01:35:47.771] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f451a93[id=<null>,name=UnMarshelo,properties={},legacy=false] (/127.187.120.60:51591) lost connection: Disconnected
+[23Jul2025 01:35:59.151] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7674d64b[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.132.15.99:38119) lost connection: Disconnected
+[23Jul2025 01:36:00.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.187.120.60:41227] logged in with entity id 182045 at (-1130.508804206117, 100.0, -466.28751749070557)
+[23Jul2025 01:36:00.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
+[23Jul2025 01:36:00.758] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
+[23Jul2025 01:36:00.998] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (18)
+[23Jul2025 01:36:00.999] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
+[23Jul2025 01:36:06.984] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/182325, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 01:36:06.985] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/182325, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 01:36:06.985] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/182325, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 01:36:06.985] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@e87d7bb, net.minecraft.world.item.trading.MerchantOffer@2169a65e, net.minecraft.world.item.trading.MerchantOffer@61e3694b, net.minecraft.world.item.trading.MerchantOffer@28d6dc0, net.minecraft.world.item.trading.MerchantOffer@32875825] for Humanoid['entity.easy_npc.humanoid'/182325, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 01:36:13.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Skeleton
+[23Jul2025 01:36:30.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Timed out
+[23Jul2025 01:36:30.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
+[23Jul2025 01:36:30.821] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
+[23Jul2025 01:36:37.366] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b3c0475[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.132.15.99:47073) lost connection: Disconnected
+[23Jul2025 01:37:01.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:56015] logged in with entity id 182865 at (-1089.5857000495223, 113.0, -721.5936504437685)
+[23Jul2025 01:37:01.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[23Jul2025 01:37:01.116] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[23Jul2025 01:37:01.368] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[23Jul2025 01:37:01.369] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[23Jul2025 01:37:10.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.187.120.60:37989] logged in with entity id 182954 at (-1130.508804206117, 100.0, -466.28751749070557)
+[23Jul2025 01:37:10.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
+[23Jul2025 01:37:10.310] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
+[23Jul2025 01:37:10.548] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (18)
+[23Jul2025 01:37:10.549] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
+[23Jul2025 01:37:15.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 01:37:16.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 01:37:16.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[23Jul2025 01:37:19.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[23Jul2025 01:37:20.029] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 01:37:20.029] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 01:37:20.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[23Jul2025 01:37:20.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38) successfully connected to voice chat
+[23Jul2025 01:38:07.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> chuta me asustas xd
+[23Jul2025 01:38:16.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[23Jul2025 01:38:16.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[23Jul2025 01:38:16.226] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[23Jul2025 01:38:57.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Zombie
+[23Jul2025 01:38:59.063] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 01:38:59.063] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 01:39:01.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:47733] logged in with entity id 184355 at (-1088.4027170090278, 113.0, -719.1312642696605)
+[23Jul2025 01:39:01.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[23Jul2025 01:39:01.953] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[23Jul2025 01:39:02.349] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[23Jul2025 01:39:02.350] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[23Jul2025 01:39:07.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 01:39:08.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 01:39:08.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[23Jul2025 01:39:14.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> zzz
+[23Jul2025 01:39:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[23Jul2025 01:39:25.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> Z
+[23Jul2025 01:40:07.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 01:40:12.830] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{UnMarshelo})
+[23Jul2025 01:41:15.567] [Worker-Main-118/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 01:41:15.568] [Worker-Main-118/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[23Jul2025 01:41:15.568] [Worker-Main-118/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[23Jul2025 01:41:21.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [People Are Strange]
+[23Jul2025 01:41:40.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was crushed by a falling tree
+[23Jul2025 01:41:42.373] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 01:41:42.374] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 01:45:47.543] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 01:45:47.543] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[23Jul2025 01:45:47.543] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[23Jul2025 01:45:53.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[23Jul2025 01:46:12.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[23Jul2025 01:46:17.147] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[23Jul2025 01:46:17.148] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[23Jul2025 01:46:17.148] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[23Jul2025 01:46:17.155] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[23Jul2025 01:46:17.155] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[23Jul2025 01:46:17.156] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[23Jul2025 01:46:17.200] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[23Jul2025 01:46:17.201] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[23Jul2025 01:46:17.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[23Jul2025 01:46:17.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[23Jul2025 01:46:17.702] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[23Jul2025 01:46:20.328] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[23Jul2025 01:46:20.328] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[23Jul2025 01:46:20.336] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[23Jul2025 01:46:32.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Jul2025 01:46:34.085] [Worker-Main-24/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:tall_seagrass
+[23Jul2025 01:46:46.713] [Worker-Main-24/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[23Jul2025 01:46:49.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
+[23Jul2025 01:47:06.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[23Jul2025 01:47:23.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 01:47:25.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3263ms or 65 ticks behind
+[23Jul2025 01:47:27.218] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2652a666[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.132.15.99:59623) lost connection: Disconnected
+[23Jul2025 01:47:32.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:42781] logged in with entity id 192347 at (-1088.025696504798, 116.0, -716.261572308388)
+[23Jul2025 01:47:32.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[23Jul2025 01:47:33.020] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[23Jul2025 01:47:33.369] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[23Jul2025 01:47:33.369] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[23Jul2025 01:47:36.821] [Worker-Main-75/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 01:47:36.821] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[23Jul2025 01:47:36.821] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[23Jul2025 01:47:43.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+[23Jul2025 01:47:52.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 01:47:53.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 01:47:53.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[23Jul2025 01:48:02.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4401ms or 88 ticks behind
+[23Jul2025 01:48:22.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4637ms or 92 ticks behind
+[23Jul2025 01:48:31.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Welcome To The Machine]
+[23Jul2025 01:48:39.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> todo es culpa de los pollos >:c
+[23Jul2025 01:48:41.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4414ms or 88 ticks behind
+[23Jul2025 01:49:01.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4878ms or 97 ticks behind
+[23Jul2025 01:49:22.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5547ms or 110 ticks behind
+[23Jul2025 01:49:42.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5364ms or 107 ticks behind
