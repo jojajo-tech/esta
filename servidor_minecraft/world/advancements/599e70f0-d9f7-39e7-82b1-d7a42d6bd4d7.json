@@ -5760,6 +5760,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-23 00:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-07-23 00:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-07-23 00:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-23 00:05:07 +0000"
@@ -5820,15 +5838,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-23 00:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-23 00:05:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-07-23 00:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-23 00:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-23 00:59:23 +0000"
     },
     "done": true
   },

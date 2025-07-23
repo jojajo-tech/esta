@@ -2033,6 +2033,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_large_dungeon": "2025-07-23 01:05:57 +0000",
       "entered_watch_tower": "2025-07-21 23:29:16 +0000"
     },
     "done": false
@@ -2523,9 +2524,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-23 01:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-23 00:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-23 01:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-23 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-07-23 00:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-23 01:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-23 01:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 01:07:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-07-23 01:05:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-07-23 00:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-07-23 01:06:23 +0000"
     },
     "done": true
   },
@@ -2535,9 +2614,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-23 01:03:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-07-23 01:06:56 +0000"
+    },
+    "done": false
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-07-23 00:59:54 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/sweet_berry_juice": {
     "criteria": {
       "has_sweet_berries": "2025-07-23 00:50:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-07-23 00:58:00 +0000"
     },
     "done": true
   },
@@ -2547,9 +2650,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-23 01:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 01:07:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-07-23 00:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-23 01:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 01:07:00 +0000"
     },
     "done": true
   },
