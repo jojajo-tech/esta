@@ -524,3 +524,86 @@
 [23Jul2025 01:49:01.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4878ms or 97 ticks behind
 [23Jul2025 01:49:22.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5547ms or 110 ticks behind
 [23Jul2025 01:49:42.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5364ms or 107 ticks behind
+[23Jul2025 01:50:03.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5800ms or 116 ticks behind
+[23Jul2025 01:50:04.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=918, y=9, z=2160} but found not block entity block Block{minecraft:water}[level=0] at location
+[23Jul2025 01:50:04.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=918, y=9, z=2160}
+[23Jul2025 01:50:30.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11910ms or 238 ticks behind
+[23Jul2025 01:50:50.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5687ms or 113 ticks behind
+[23Jul2025 01:51:11.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6170ms or 123 ticks behind
+[23Jul2025 01:51:33.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6701ms or 134 ticks behind
+[23Jul2025 01:51:54.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6257ms or 125 ticks behind
+[23Jul2025 01:52:13.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -1.0910481704288486,-14.314612373875036,0.9879900862799786
+[23Jul2025 01:52:15.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6153ms or 123 ticks behind
+[23Jul2025 01:52:40.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9315ms or 186 ticks behind
+[23Jul2025 01:53:00.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5645ms or 112 ticks behind
+[23Jul2025 01:53:23.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7509ms or 150 ticks behind
+[23Jul2025 01:53:30.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=954, y=9, z=2187} but found not block entity block Block{minecraft:water}[level=0] at location
+[23Jul2025 01:53:30.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=954, y=9, z=2187}
+[23Jul2025 01:53:42.673] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=888, y=9, z=2172} but found not block entity block Block{minecraft:water}[level=0] at location
+[23Jul2025 01:53:42.673] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=888, y=9, z=2172}
+[23Jul2025 01:53:47.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
+[23Jul2025 01:53:47.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9156ms or 183 ticks behind
+[23Jul2025 01:53:48.559] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 01:53:48.559] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 01:53:51.213] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=892, y=9, z=2191} but found not block entity block Block{minecraft:water}[level=0] at location
+[23Jul2025 01:53:51.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=892, y=9, z=2191}
+[23Jul2025 01:53:58.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was doomed to fall
+[23Jul2025 01:54:01.410] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 01:54:01.411] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 01:54:05.325] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/197676, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 01:54:05.326] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/197676, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 01:54:05.326] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/197676, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 01:54:05.326] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@71839bb4, net.minecraft.world.item.trading.MerchantOffer@521bdecb, net.minecraft.world.item.trading.MerchantOffer@3ea8b262, net.minecraft.world.item.trading.MerchantOffer@435fea94, net.minecraft.world.item.trading.MerchantOffer@2eec8770] for Humanoid['entity.easy_npc.humanoid'/197676, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 01:54:10.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7682ms or 153 ticks behind
+[23Jul2025 01:54:28.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3613ms or 72 ticks behind
+[23Jul2025 01:54:47.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
+[23Jul2025 01:55:04.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[23Jul2025 01:55:04.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[23Jul2025 01:55:04.206] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[23Jul2025 01:55:06.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3635ms or 72 ticks behind
+[23Jul2025 01:55:20.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 01:55:23.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:43747] logged in with entity id 199323 at (-1075.6549590336433, 78.53584062504456, -759.7446095630752)
+[23Jul2025 01:55:23.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[23Jul2025 01:55:23.324] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[23Jul2025 01:55:23.569] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[23Jul2025 01:55:23.569] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[23Jul2025 01:55:24.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1321, y=79, z=-113} BlockPos{x=-1321, y=78, z=-112}
+[23Jul2025 01:55:24.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1321, y=79, z=-113} BlockPos{x=-1321, y=78, z=-112}
+[23Jul2025 01:55:24.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1322, y=80, z=-114} BlockPos{x=-1321, y=79, z=-115}
+[23Jul2025 01:55:24.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1322, y=80, z=-114} BlockPos{x=-1321, y=79, z=-115}
+[23Jul2025 01:55:24.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1322, y=79, z=-113} BlockPos{x=-1321, y=79, z=-115}
+[23Jul2025 01:55:25.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4677ms or 93 ticks behind
+[23Jul2025 01:55:41.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Pillager
+[23Jul2025 01:55:42.617] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 01:55:42.617] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 01:55:42.643] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/199586, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 01:55:42.643] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/199586, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 01:55:42.643] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/199586, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 01:55:42.644] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@7d9ae403, net.minecraft.world.item.trading.MerchantOffer@39fe8748, net.minecraft.world.item.trading.MerchantOffer@406f9dea, net.minecraft.world.item.trading.MerchantOffer@58e4ba4b, net.minecraft.world.item.trading.MerchantOffer@7274e7a8] for Humanoid['entity.easy_npc.humanoid'/199586, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 01:55:44.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 01:55:45.805] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 01:55:45.805] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[23Jul2025 01:55:45.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5355ms or 107 ticks behind
+[23Jul2025 01:56:04.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3437ms or 68 ticks behind
+[23Jul2025 01:56:23.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4597ms or 91 ticks behind
+[23Jul2025 01:56:43.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4685ms or 93 ticks behind
+[23Jul2025 01:56:58.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Timed out
+[23Jul2025 01:56:58.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
+[23Jul2025 01:56:58.383] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
+[23Jul2025 01:57:02.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4412ms or 88 ticks behind
+[23Jul2025 01:57:23.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
+[23Jul2025 01:57:40.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2857ms or 57 ticks behind
+[23Jul2025 01:57:58.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3103ms or 62 ticks behind
+[23Jul2025 01:58:16.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3027ms or 60 ticks behind
+[23Jul2025 01:58:35.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3301ms or 66 ticks behind
+[23Jul2025 01:58:54.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3808ms or 76 ticks behind
+[23Jul2025 01:59:13.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4523ms or 90 ticks behind
+[23Jul2025 01:59:26.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was frozen to death by Skeleton
+[23Jul2025 01:59:31.456] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 01:59:31.456] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Jul2025 01:59:33.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4490ms or 89 ticks behind
+[23Jul2025 01:59:34.515] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/202326, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 01:59:34.516] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/202326, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 01:59:34.516] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/202326, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 01:59:34.516] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@1a986b9f, net.minecraft.world.item.trading.MerchantOffer@4b223215, net.minecraft.world.item.trading.MerchantOffer@cb0a80, net.minecraft.world.item.trading.MerchantOffer@574b1f02, net.minecraft.world.item.trading.MerchantOffer@ed642e7] for Humanoid['entity.easy_npc.humanoid'/202326, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 02:00:35.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> NO JODAS
