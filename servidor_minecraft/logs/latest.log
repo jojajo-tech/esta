@@ -11,3 +11,107 @@
 [23Jul2025 00:22:09.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
 [23Jul2025 00:22:09.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
 [23Jul2025 00:22:09.560] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client asrielmanrique
+[23Jul2025 00:31:46.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[23Jul2025 00:38:02.955] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-07-23 at /workspaces/esta/servidor_minecraft/easy_npc/backup ...
+[23Jul2025 00:41:13.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.187.120.60:45085] logged in with entity id 138510 at (435.42772233994623, 59.80348975732775, 1659.8685666878928)
+[23Jul2025 00:41:13.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
+[23Jul2025 00:41:13.082] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
+[23Jul2025 00:41:14.711] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (18)
+[23Jul2025 00:41:14.712] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
+[23Jul2025 00:41:15.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[23Jul2025 00:41:20.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[23Jul2025 00:41:21.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[23Jul2025 00:41:21.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38) successfully connected to voice chat
+[23Jul2025 00:41:21.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> llego el tryhard
+[23Jul2025 00:41:27.130] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 00:41:27.131] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 00:41:50.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> No mentias cunado deciar que entraban pocos xd
+[23Jul2025 00:41:55.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 00:41:59.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> gustambo entro
+[23Jul2025 00:42:08.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> sol oque estaba afk porque me fui a bañar
+[23Jul2025 00:42:12.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y se sintio solo XD
+[23Jul2025 00:42:15.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> haa
+[23Jul2025 00:46:47.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
+[23Jul2025 00:46:47.521] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.wolf_23.07.2025-00.46.47.dat
+[23Jul2025 00:46:49.324] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 00:46:49.324] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 00:46:53.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> jaja
+[23Jul2025 00:47:02.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> xd
+[23Jul2025 00:47:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> Para no curar las partes del cuerpo pis
+[23Jul2025 00:47:18.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> pura iq
+[23Jul2025 00:47:43.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> que dices bro soy albert ainstain
+[23Jul2025 00:48:39.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:50809] logged in with entity id 145807 at (926.5495925605421, 70.0, 855.7657959908594)
+[23Jul2025 00:48:39.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[23Jul2025 00:48:39.915] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[23Jul2025 00:48:42.205] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[23Jul2025 00:48:42.206] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[23Jul2025 00:48:42.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[23Jul2025 00:48:43.070] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/145814, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 00:48:43.070] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/145814, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 00:48:43.070] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/145814, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 00:48:43.071] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@779a9e69, net.minecraft.world.item.trading.MerchantOffer@7ba548bb, net.minecraft.world.item.trading.MerchantOffer@4275ff38, net.minecraft.world.item.trading.MerchantOffer@2236a7d6, net.minecraft.world.item.trading.MerchantOffer@17c0c2f] for Humanoid['entity.easy_npc.humanoid'/145814, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 00:48:44.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> no way
+[23Jul2025 00:48:46.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> lo logro señor
+[23Jul2025 00:48:46.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 00:48:47.555] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 00:48:47.555] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[23Jul2025 00:48:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> chat voz pes
+[23Jul2025 00:49:03.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
+[23Jul2025 00:49:03.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> es tan epico q me morire
+[23Jul2025 00:49:04.662] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 00:49:04.663] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 00:49:09.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 00:49:09.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
+[23Jul2025 00:49:30.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> toca matar dragones
+[23Jul2025 00:49:42.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> y yo con una espada de piedra
+[23Jul2025 00:49:46.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
+[23Jul2025 00:49:50.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> xd
+[23Jul2025 00:49:58.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> el jueves triago dibujo de mashelo contra el siclope
+[23Jul2025 00:50:04.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> vendo 3 graffitis
+[23Jul2025 00:50:09.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> nms
+[23Jul2025 00:50:12.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> para que pongas los que sea
+[23Jul2025 00:50:14.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 00:51:17.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Zombie
+[23Jul2025 00:51:19.732] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 00:51:19.733] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 00:51:25.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 00:51:28.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> se tryhard
+[23Jul2025 00:51:36.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> factos
+[23Jul2025 00:52:57.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> duermen?
+[23Jul2025 00:52:59.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was frozen to death by Skeleton
+[23Jul2025 00:53:08.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 00:53:14.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> dx
+[23Jul2025 00:53:14.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> encontre un bebe XD
+[23Jul2025 00:53:22.617] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 00:53:22.618] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 00:53:29.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> BEBE REPIT AFTER MY
+[23Jul2025 00:53:37.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> NO PODEMOS
+[23Jul2025 00:53:42.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no podemos
+[23Jul2025 00:53:48.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> NO PODEMOS
+[23Jul2025 00:53:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> LO TIRA"
+[23Jul2025 00:54:22.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> *SIGUE CON EL VIDEO CARAJO!
+[23Jul2025 00:56:45.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was shot by Skeleton
+[23Jul2025 00:56:46.805] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 00:56:46.806] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 00:57:14.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Inquisitor
+[23Jul2025 00:57:16.369] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 00:57:16.370] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 00:57:18.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
+[23Jul2025 00:57:26.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Inquisitor
+[23Jul2025 00:57:27.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> o no volvemos a lo mismo
+[23Jul2025 00:57:28.173] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 00:57:28.174] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 00:57:45.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asrielmanrique[/127.228.234.214:58927] logged in with entity id 154103 at (34.68674104971794, -32.0, -326.78371569729427)
+[23Jul2025 00:57:45.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique joined the game
+[23Jul2025 00:57:45.122] [Server thread/INFO] [Jade/]: Syncing config to asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0)
+[23Jul2025 00:57:46.618] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of asrielmanrique (18)
+[23Jul2025 00:57:46.618] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to asrielmanrique
+[23Jul2025 00:57:49.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 00:57:54.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> no me digas que...
+[23Jul2025 00:57:55.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 93160725-4002-3d1f-9267-650f17d3bbf0
+[23Jul2025 00:57:56.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 93160725-4002-3d1f-9267-650f17d3bbf0
+[23Jul2025 00:57:56.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0) successfully connected to voice chat
+[23Jul2025 00:57:57.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si
+[23Jul2025 00:57:59.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> gustambo
+[23Jul2025 00:58:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [Ol' Betsy]
+[23Jul2025 00:58:11.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo has made the advancement [Take Aim]
