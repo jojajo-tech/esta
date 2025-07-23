@@ -1137,3 +1137,37 @@
 [23Jul2025 03:02:16.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Stymphalian Bird
 [23Jul2025 03:02:17.422] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [23Jul2025 03:02:17.422] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 03:03:03.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ya esta
+[23Jul2025 03:04:59.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: me contagiSTE TU NET DE MRD xd
+[23Jul2025 03:05:26.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:39067] logged in with entity id 247186 at (-1075.9018775435325, 114.0, -720.9709105438794)
+[23Jul2025 03:05:26.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[23Jul2025 03:05:26.498] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[23Jul2025 03:05:27.733] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[23Jul2025 03:05:27.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[23Jul2025 03:05:34.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 03:05:35.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 03:05:35.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[23Jul2025 03:05:37.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover froze to death
+[23Jul2025 03:05:38.588] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 03:05:38.588] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 03:08:11.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[23Jul2025 03:08:11.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[23Jul2025 03:08:11.816] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[23Jul2025 03:09:19.554] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/250645, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 03:09:19.555] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/250645, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 03:09:19.555] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/250645, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 03:09:19.556] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@65067199, net.minecraft.world.item.trading.MerchantOffer@3e1590a0, net.minecraft.world.item.trading.MerchantOffer@3590d666, net.minecraft.world.item.trading.MerchantOffer@52746cf1, net.minecraft.world.item.trading.MerchantOffer@4a8459f] for Humanoid['entity.easy_npc.humanoid'/250645, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 03:09:51.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[23Jul2025 03:10:20.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: ctm me contagiaste tu net XD
+[23Jul2025 03:10:30.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NI ME LO DIGAS TOY JOYAA
+[23Jul2025 03:11:07.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> me voy a mimir
+[23Jul2025 03:11:15.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[23Jul2025 03:11:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: CTM
+[23Jul2025 03:11:29.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
+[23Jul2025 03:11:42.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: tmr jojajo
+[23Jul2025 03:11:56.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> dx
+[23Jul2025 03:12:06.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: XD
+[23Jul2025 03:12:19.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: hay invasion de pollos en mi cas XD
+[23Jul2025 03:12:26.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[23Jul2025 03:12:26.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[23Jul2025 03:12:26.096] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
